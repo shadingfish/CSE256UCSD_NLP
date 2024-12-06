@@ -1,0 +1,31 @@
+Metrics for planning:
+TP: 0
+FP: 0
+FN: 20
+TN: 0
+errors: 0
+accuracy: 0.0
+total_time: 51.48382210731506
+avg_time_per_sample: 2.5741911053657534
+
+Detailed Results:
+{"text": "I made significant progress on Binary Search Trees because I practiced implementing them in exercises and took detailed notes during lectures. However, I struggled with Sorting Algorithms due to a lack of clear explanations.", "true_tag": "planning", "predicted_tag": "evaluating", "error": false}
+{"text": "Reflecting on my time, I noticed that I spent more time on quizzes than exercises. To improve, I'll allocate equal time for both to reinforce understanding.", "true_tag": "planning", "predicted_tag": "evaluating", "error": false}
+{"text": "I made progress in Binary Search Trees by breaking down complex concepts into smaller steps and creating visual aids. However, Sorting Algorithms were challenging due to the complexity of algorithms.", "true_tag": "planning", "predicted_tag": "evaluating", "error": false}
+{"text": "Through the exercises on Computer Science topics, I realized that my strength lies in understanding theoretical aspects, but I need to work on applying them practically.", "true_tag": "planning", "predicted_tag": "evaluating", "error": false}
+{"text": "I think I made progress because I consistently engaged with the lectures and participated in discussions. However, I still struggle with implementing algorithms due to a lack of hands-on experience.", "true_tag": "planning", "predicted_tag": "evaluating", "error": false}
+{"text": "In retrospect, I should have allocated more time for reviewing notes and practicing problems. This would have helped me retain information better.", "true_tag": "planning", "predicted_tag": "evaluating", "error": false}
+{"text": "My approach on Binary Search Trees was effective because I used analogies to explain complex concepts. However, Sorting Algorithms were tough due to the fast pace of learning.", "true_tag": "planning", "predicted_tag": "evaluating", "error": false}
+{"text": "I think my progress was hindered by not seeking help early enough when I struggled with certain topics. This led to frustration and wasted time.", "true_tag": "planning", "predicted_tag": "evaluating", "error": false}
+{"text": "After analyzing my performance on quizzes, I noticed that I tend to struggle with questions involving recursion. To improve, I'll focus on this specific area in future practice.", "true_tag": "planning", "predicted_tag": "evaluating", "error": false}
+{"text": "In the past week, I made significant progress on Binary Search Trees by creating interactive diagrams and explaining them to myself. However, Sorting Algorithms were difficult because they require advanced mathematical concepts.", "true_tag": "planning", "predicted_tag": "evaluating", "error": false}
+{"text": "I think I made significant progress on Binary Search Trees because I watched the lectures multiple times, practiced with exercises, and understood how to apply it through quizzes.", "true_tag": "planning", "predicted_tag": "evaluating", "error": false}
+{"text": "My approach worked well for some topics like Sorting Algorithms, but I struggled with understanding the concept of tree traversals in Binary Search Trees. I need to review those again.", "true_tag": "planning", "predicted_tag": "evaluating", "error": false}
+{"text": "I spent more time on exercises than lectures, which helped me grasp concepts better. However, I wish I had watched more videos on specific problems to better understand their applications.", "true_tag": "planning", "predicted_tag": "evaluating", "error": false}
+{"text": "Reflecting on my results, I think I did okay with Binary Search Trees but got stuck on a few questions in Sorting Algorithms. I need to make sure I read the question carefully next time.", "true_tag": "planning", "predicted_tag": "evaluating", "error": false}
+{"text": "I utilized quizzes and exercises effectively to reinforce my understanding of computer science concepts. However, I should have reviewed more resources before starting the study period.", "true_tag": "planning", "predicted_tag": "evaluating", "error": false}
+{"text": "One thing that helped me was taking breaks during long study sessions. It allowed me to recharge and approach problems with a fresh perspective.", "true_tag": "planning", "predicted_tag": "evaluating", "error": false}
+{"text": "I think identifying my weaknesses was key in this week's studying. Recognizing that I need to practice more on Binary Search Trees has already made a difference in my understanding of the topic.", "true_tag": "planning", "predicted_tag": "evaluating", "error": false}
+{"text": "Engaging with lectures, quizzes, and exercises helped me consolidate knowledge and apply it to new situations. If I were to improve, I would spend even more time reviewing past assignments.", "true_tag": "planning", "predicted_tag": "evaluating", "error": false}
+{"text": "The platform provided various learning materials that catered to different learning styles. This helped me find what worked best for my study habits and retain information better.", "true_tag": "planning", "predicted_tag": "evaluating", "error": false}
+{"text": "I could see the progress in understanding Binary Search Trees after practicing exercises regularly. It allowed me to internalize the concepts rather than just memorizing them.", "true_tag": "planning", "predicted_tag": "evaluating", "error": false}

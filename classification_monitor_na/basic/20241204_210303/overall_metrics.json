@@ -1,0 +1,14 @@
+{
+    "monitor": {
+        "precision": 1.0,
+        "recall": 0.81,
+        "f1_score": 0.8950276243093923,
+        "accuracy": 0.905
+    },
+    "na": {
+        "precision": 0.8403361344537815,
+        "recall": 1.0,
+        "f1_score": 0.91324200913242,
+        "accuracy": 0.905
+    }
+}

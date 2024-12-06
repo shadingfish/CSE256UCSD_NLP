@@ -1,0 +1,16 @@
+{
+    "monitor": {
+        "precision": 1.0,
+        "recall": 0.98,
+        "f1_score": 0.98989898989899,
+        "accuracy": 0.98
+    },
+    "na": {
+        "precision": 0.0,
+        "recall": 0,
+        "f1_score": 0,
+        "accuracy": 0.98
+    },
+    "total_time": 72.23592901229858,
+    "avg_time_per_sample": 0.7223592901229858
+}

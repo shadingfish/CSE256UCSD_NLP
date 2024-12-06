@@ -1,0 +1,28 @@
+{
+    "planning": {
+        "precision": 0.0,
+        "recall": 0,
+        "f1_score": 0,
+        "accuracy": 0.9875
+    },
+    "monitor": {
+        "precision": 0.0,
+        "recall": 0,
+        "f1_score": 0,
+        "accuracy": 0.9875
+    },
+    "evaluating": {
+        "precision": 1.0,
+        "recall": 0.9625,
+        "f1_score": 0.980891719745223,
+        "accuracy": 0.9625
+    },
+    "na": {
+        "precision": 0.0,
+        "recall": 0,
+        "f1_score": 0,
+        "accuracy": 0.9875
+    },
+    "total_time": 95.52172493934631,
+    "avg_time_per_sample": 1.1940215617418288
+}

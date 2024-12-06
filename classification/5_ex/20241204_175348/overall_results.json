@@ -1,0 +1,1442 @@
+[
+    {
+        "text": "I'll allocate 3 hours daily for studying, focusing on data structures first. Then, I'll move to sorting algorithms using the CompassX resources. Regular quizzes will help me track progress and identify areas for improvement.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "To master computer science topics, I'll prioritize weekly review sessions (2 hours). During these sessions, I'll go through lecture slides, textbook notes, and practice exercises. This will ensure consistent learning and retain information better.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "My plan is to dedicate 2 hours daily for studying. I'll start with data structures, then move on to sorting algorithms. If I'm stuck, I'll refer to external materials or watch video lectures to clarify difficult concepts.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I'll use a calendar to organize my study schedule. Data structures will take priority (3 hours/week), followed by sorting algorithms (2 hours/week). Regular breaks and self-assessment will help me stay on track and identify knowledge gaps.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "To effectively allocate time, I'll divide my day into focused blocks: 90 minutes of studying + 10-minute breaks. After completing a block, I'll review what I've learned and adjust my plan as needed to ensure consistent progress.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "My goal is to spend at least 4 hours weekly reviewing notes and practicing problems. This will help me retain information better and identify areas where I need more practice or review. Foresight: I'll also prepare for quizzes in advance.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I'll allocate time for each topic separately, ensuring equal attention to both data structures and sorting algorithms. Regular assessments will help me stay on track and adjust my plan if needed, maintaining a balance between review and practice.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "To structure my study schedule, I'll dedicate one day a week (4 hours) for reviewing lecture slides, textbook notes, and external materials. This will ensure I stay up-to-date with the course material and identify any knowledge gaps.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "My plan involves setting weekly objectives and allocating specific time slots for each task. If needed, I'll adjust my schedule to accommodate challenging topics or review difficult concepts thoroughly before moving on.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "Regularly, I'll evaluate how much time is being spent on a particular topic and adjust the schedule accordingly. Foresight: If I notice struggling with a specific concept, I'll allocate extra time for review and practice to overcome the difficulty.",
+        "true_tag": "planning",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I plan to dedicate 3 hours daily, 5 days a week, to reviewing data structures and sorting algorithms. I'll prioritize lectures, then practice exercises, and finally review concepts.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "To allocate time effectively, I'll set aside dedicated blocks for each topic, allowing me to focus without distractions. Quizzes and assignments will be completed within the same timeframe.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I'll create a schedule with realistic daily goals: 1 hour lecture review, 2 hours practice exercises, and 1 hour concept review. Adjustments will be made as needed.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "Data structures will receive priority attention due to their broad applications in computer science. Sorting algorithms will follow, considering practical use cases.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I'll leverage the CompassX platform's resources, including quizzes and exercises, to supplement textbook material. Lecture slides will also be a reference point.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "Weekly review sessions will allow me to reflect on progress, adjust my schedule as needed, and reinforce learning.",
+        "true_tag": "planning",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "By prioritizing understanding over speed, I can ensure mastery of complex concepts like data structures and sorting algorithms.",
+        "true_tag": "planning",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "External resources, such as online forums or YouTube tutorials, may be consulted when necessary to supplement knowledge gaps.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "Regular assessments will help me stay on track, identify areas for improvement, and adjust my study plan accordingly.",
+        "true_tag": "planning",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I'll divide the week into manageable chunks: 2 hours daily review, with dedicated blocks for each topic. This will allow me to maintain focus and avoid burnout.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "To master data structures, I'll allocate 3 hours/day for 5 days/week. Prioritizing quizzes and exercises, I'll review notes and textbook in between.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I'll dedicate 2 hours daily for sorting algorithms. Breaking it down into smaller tasks like implementation and analysis will help me stay focused.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "My plan involves reviewing lecture slides (1 hour), practicing exercises (2 hours), and referring to external materials (1 hour) each day.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "To balance resources, I'll use online quizzes for 30 minutes daily and textbook material for the remaining time.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I will schedule dedicated time slots for data structure review (40 minutes) and practice exercises (20 minutes). Regular breaks will ensure I stay refreshed.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "With a mix of online resources, lecture slides, and textbooks, my goal is to allocate 1 hour daily towards learning new concepts.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I'll use the CompassX platform's time management tool to track progress and set realistic targets for each day.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "My primary focus will be on understanding data structures before moving to sorting algorithms. I'll allocate more time for the former.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "To avoid burnout, I'll take 10-15 minute breaks every hour while studying. This schedule will allow me to effectively utilize my available time.",
+        "true_tag": "planning",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "By prioritizing key topics and allocating sufficient time for practice exercises, I aim to achieve a better grasp of computer science fundamentals within the next 3 months.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I plan to dedicate 3 hours daily, 5 days a week, to studying data structures and sorting algorithms. I'll prioritize exercises on the CompassX platform over lectures.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "First, I'll review lecture slides, then practice problems on the platform, and finally, work on coding assignments outside of class.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "My goal is to complete 10 exercises per week. If I fall behind, I'll spend an extra hour reviewing concepts before moving forward.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I'll allocate time for watching lecture videos, reading textbooks, and working on projects simultaneously.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "To stay organized, I'll create a schedule with dedicated blocks for studying, reviewing, and taking practice quizzes.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I'll start by mastering the basics of data structures before moving on to sorting algorithms. This will help me build a strong foundation.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "If I encounter difficulties during exercises, I'll seek help from classmates or online forums before giving up.",
+        "true_tag": "planning",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I plan to review my progress weekly and adjust my study schedule accordingly.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "My priority is mastering the most common data structures. Once that's solidified, I can move on to more complex topics like sorting algorithms.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "To ensure consistency, I'll schedule regular breaks every hour to refresh my mind and avoid burnout.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I plan to dedicate 3 hours daily, 5 days a week. I'll focus on data structures first, then move to sorting algorithms. Quizzes and exercises will be my primary resources.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "To master computer science topics, I'll allocate 30 minutes for reviewing lecture slides, 45 minutes for practicing exercises, and 1 hour for reading textbooks.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I'll prioritize understanding data structures before diving into sorting algorithms. I'll use CompassX's quizzes to assess my progress and adjust my schedule accordingly.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "My goal is to complete all exercises within the first two weeks. After that, I'll focus on more challenging topics, allocating extra time for review and practice.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I'll organize my resources by topic: data structures, sorting algorithms, and quizzes/exercises. This will help me stay focused and avoid wasting time searching for materials.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "To ensure adaptability, I'll regularly schedule 'review sessions' to reassess my progress, identify areas of struggle, and adjust my study plan as needed.",
+        "true_tag": "planning",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I've set realistic goals: mastering data structures in 2 weeks and sorting algorithms in 3. If I'm behind, I'll allocate extra time for catching up and review.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "To stay motivated, I'll reward myself after completing each milestone (e.g., finishing a challenging exercise). This will help me maintain focus and motivation throughout my study period.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I'll use CompassX's progress tracking feature to monitor my completion rate and adjust my schedule accordingly. If I'm falling behind, I'll intensify my study efforts.",
+        "true_tag": "planning",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "By breaking down the topics into smaller chunks (data structures, sorting algorithms), I can create a more manageable study plan and avoid feeling overwhelmed by the vast amount of material.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I'll dedicate 3 hours daily, 5 days a week to studying. I'll prioritize data structures and sorting algorithms, with a focus on practice problems from quizzes.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "To master computer science topics, I plan to allocate 2 hours each day for reviewing notes and textbooks, and 1 hour for practicing exercises on CompassX.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "My plan is to dedicate 30 minutes daily for note-taking and summarization. The remaining time will be used for practicing problems and reviewing resources.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I'll set aside specific times each day (9-10 am, 3-4 pm) for studying data structures and sorting algorithms. During other times, I'll review notes and textbooks.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "To ensure effective time management, I'll use the Pomodoro technique: 25 minutes of focused study + 5 minutes of break. This will help me stay on track.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "My primary objective is to complete all the exercises on CompassX within 6 weeks. I'll allocate my time accordingly, with a focus on understanding the concepts behind each problem.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I'll create a study schedule that allows me to review and practice regularly. By allocating dedicated blocks of time for each topic, I can ensure consistent progress.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "To prioritize tasks effectively, I'll categorize my learning resources (lectures, textbooks, external materials) into three groups: essential, recommended, and supplementary. This will help me focus on the most critical information.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I plan to break down each study session into smaller chunks, with a clear beginning and end point. This will enable me to stay focused and avoid burnout.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "By regularly assessing my progress and adjusting my schedule as needed, I can ensure that I'm making the most of my time and resources in mastering computer science topics.",
+        "true_tag": "planning",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I plan to dedicate 3 hours/day, 5 days a week, to studying computer science topics. Prioritizing data structures and sorting algorithms, I will allocate specific times for reviewing notes, practicing exercises, and working on projects.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "To master data structures and sorting algorithms, I'll create a schedule with dedicated blocks for: quiz prep (2 hours), exercise practice (3 hours), and project work (4 hours). This allows for flexibility and adaptability.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "My plan is to break down the study material into manageable chunks. I'll allocate 1 hour/day for reviewing notes, 2 hours/day for practicing exercises, and 3 hours/weekend for working on projects.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I will prioritize data structures by allocating more time to understanding concepts before diving into algorithms. This ensures a solid foundation and avoids unnecessary complexity.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "To stay organized, I'll utilize the CompassX platform's resources, including lecture slides and textbooks. I'll also make notes on key concepts and create flashcards for quick review.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I'll set specific, measurable objectives for each study session, such as completing a certain number of exercises or mastering a new concept. This helps me stay focused and track progress.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "To balance studying with other commitments, I'll schedule dedicated blocks of time for computer science work, ensuring consistency and minimizing distractions.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I plan to review notes regularly, using flashcards to reinforce key terms and concepts. This facilitates active recall and solidifies understanding.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "My goal is to spend at least 30 minutes reviewing data structures and sorting algorithms each day. Consistency is key to developing a strong foundation in these topics.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "To ensure flexibility, I'll allocate 10% of my study time for unexpected challenges or review sessions. This allows me to adapt to changing needs and stay on track.",
+        "true_tag": "planning",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "To master data structures and sorting algorithms, I'll dedicate 3 hours/day, 5 days/week. Prioritizing exercises on QuizX, followed by lecture slides and textbooks.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I plan to allocate 4 hours/day for studying. First, reviewing notes (30min), then practicing problems on CompassX (1.5hours). Remaining time for reviewing textbook chapters.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "My schedule will include a mix of short-term goals: completing QuizY's data structures section within 2 days and tackling the sorting algorithms chapter in textbooks by week 3.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I'll utilize my daily routine to balance studying. Allocating 1 hour for review, 1.5 hours for exercise practice on CompassX, and leaving 30 minutes for reviewing lecture slides before bed.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "By dedicating 4 hours/weekend days to studying, I aim to review all data structures concepts by week's end. Then, shifting focus to sorting algorithms exercises.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "To stay organized, I'll create a study schedule with specific time slots for: 1 hour of note reviewing, 2 hours of exercise practice on CompassX, and 30 minutes of textbook review.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "My approach includes setting aside dedicated time for each resource: Lecture slides (1 hour), textbooks (45min) and exercises on QuizX (3.5 hours).",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I plan to allocate limited, focused study sessions of 2-3 hours daily, ensuring consistent engagement with learning materials throughout the week.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "My weekly plan will involve dedicated blocks for data structures practice and review; this structure ensures steady progress while avoiding burnout during complex topics.",
+        "true_tag": "planning",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "To balance progress and self-care, I'll schedule 15-minute daily breaks amidst study sessions. This approach maintains productivity while protecting my well-being.",
+        "true_tag": "planning",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I forgot, it points to the same thing and not a copy of it like in Python",
+        "true_tag": "monitor",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I didn't realize there was no static keyword before the String type",
+        "true_tag": "monitor",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I missed the colon instead of the curly brackets",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I forgot to check my pointers.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "It gets overwritten. I should have checked that because it's a static variable.",
+        "true_tag": "monitor",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I forgot to check pointer. Jim points to Dwight, so any changes to either will change the object for both pointers.",
+        "true_tag": "monitor",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I misread this material.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The main module fulfills the role of a function.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I forgot to check my pointer.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "a and b point to the same value, until A changes",
+        "true_tag": "monitor",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "We are specifically printing lime, not just anything",
+        "true_tag": "monitor",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I didn't know Java, so I couldn't print ints",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I think b does not change the pointer from 43; I guess",
+        "true_tag": "monitor",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I'm not quite sure, actually.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I misunderstood Python syntax",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I thought referencing color or brand would confuse the code because it's a class variable, but it turns out that the method can change class variables since they were already declared.",
+        "true_tag": "monitor",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I didn't think to look whether there was a print command in the code.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I didn't think that jan.jersey_number would also update when michael.jersey_number is increased",
+        "true_tag": "monitor",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I encountered an error with bracket formatting.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I didn't think that forest.animal would also update.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I didn't realize that the brand was static",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I forgot, it points to the same thing and not a copy of it like in Python",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I thought since it had to be similar to Python code, we had to make a method to add the numbers",
+        "true_tag": "monitor",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I'm unsure if I can call the `randomMethod()` function from `MyClass` since it's not a static method.",
+        "true_tag": "monitor",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I misclicked.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I didn't pay enough attention to type declarations.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I did not notice that the func() method is non-static.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I thought you needed to do this.add, but it makes sense given that it's inside the class. The only thing is I don't know what the point of 'this' is anymore outside of defining instance attributes and need clarification on its usage.",
+        "true_tag": "monitor",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "It doesn't work because webreg doesn't contain the function `information()`",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "Java non-static methods can't be referenced from a static context.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I didn't pay close enough attention to the for loop.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "That's nuts. Using an int array will just remove the decimals.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The default value of a declared int is indeed 0!",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "Bro, this is literally a type difference that's so mean.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "This is the place to write, why I think I got this question wrong :)",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I didn't do well on this test, I struggled with some questions.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I didn't realize the variables were named differently",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I got confused between color and calories.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I didn't realize I wasn't calling printPersonInfo().",
+        "true_tag": "monitor",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I didn't use semicolons",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I didn't declare x, y, or z as integers.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I just straight up didn't read this thoroughly.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "You don't have to @Override. You should also consider @Equals and @Hashcode.",
+        "true_tag": "monitor",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I'm struggling to grasp how Generics work",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I am not sure if the default int is always 0.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The class can't implement the methods",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "Is the object also in the Super Shape?",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "No return type is needed. I did not see 'return' keyword.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The line needed is: Apple.newRevenue = Apple.basicRevenue + Apple.changeRevenue;",
+        "true_tag": "monitor",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I didn't do well overall. I struggled with some concepts, like pointer check and memory management. To improve, I will review notes and take practice problems.",
+        "true_tag": "monitor",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I struggled with some topics, particularly advanced data structures. I need to review these topics more thoroughly and practice implementing algorithms.",
+        "true_tag": "monitor",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I simply did not know the definition of overloading in Java, which is when a single parameter name is used with different data types.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "",
+        "true_tag": "monitor",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I didn't realize that A was true, but it makes sense given that interfaces are specifically designed for inheritance",
+        "true_tag": "monitor",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "The variable T needs to be declared before usage, not 'in front of' voice.",
+        "true_tag": "monitor",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "DSC 30 extends webreg, but webreg does not extend DSC 30",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I'm not sure why I need @Override?",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I thought they pointed to the same box, so it changes for both variables.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I didn't understand",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The variable is static.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I am confused",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I need to implement each method thoroughly.",
+        "true_tag": "monitor",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "interface is not a class",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I'm confused",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I misread",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I misread",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I really think this is just wrong???",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "basically, it's the same as what I did before.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I struggled with this test",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "Interfaces aren't classes, they are a subset of classes.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "Interfaces are not classes, they define behavior",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I thought this was only for instance variables.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I missed that fruitInfo.getCalories() should return 0, not null, given this input.",
+        "true_tag": "monitor",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Variables x and y do not have a type declared, which is incorrect.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "When initializing the car objects, I ensure that each object is pointing to a unique address. When printing the object information from the two different addresses, this detail should be noted.",
+        "true_tag": "monitor",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I didn't catch this - it's a reference type, and it will change.",
+        "true_tag": "monitor",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I realized I need to be careful with reference types, especially when they change.",
+        "true_tag": "monitor",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I should make a change to reference.",
+        "true_tag": "monitor",
+        "predicted_tag": "planning",
+        "error": false
+    },
+    {
+        "text": "I don't understand this answer. The strings printed are not even in the class.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "line3: parameter is an integer.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I made significant progress on Binary Search Trees because I practiced implementing them in exercises and took detailed notes during lectures. However, I struggled with Sorting Algorithms due to a lack of clear explanations.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Reflecting on my time, I noticed that I spent more time on quizzes than exercises. To improve, I'll allocate equal time for both to reinforce understanding.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I made progress in Binary Search Trees by breaking down complex concepts into smaller steps and creating visual aids. However, Sorting Algorithms were challenging due to the complexity of algorithms.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Through the exercises on Computer Science topics, I realized that my strength lies in understanding theoretical aspects, but I need to work on applying them practically.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I think I made progress because I consistently engaged with the lectures and participated in discussions. However, I still struggle with implementing algorithms due to a lack of hands-on experience.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "In retrospect, I should have allocated more time for reviewing notes and practicing problems. This would have helped me retain information better.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "My approach on Binary Search Trees was effective because I used analogies to explain complex concepts. However, Sorting Algorithms were tough due to the fast pace of learning.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I think my progress was hindered by not seeking help early enough when I struggled with certain topics. This led to frustration and wasted time.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "After analyzing my performance on quizzes, I noticed that I tend to struggle with questions involving recursion. To improve, I'll focus on this specific area in future practice.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "In the past week, I made significant progress on Binary Search Trees by creating interactive diagrams and explaining them to myself. However, Sorting Algorithms were difficult because they require advanced mathematical concepts.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I think I made significant progress on Binary Search Trees because I watched the lectures multiple times, practiced with exercises, and understood how to apply it through quizzes.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "My approach worked well for some topics like Sorting Algorithms, but I struggled with understanding the concept of tree traversals in Binary Search Trees. I need to review those again.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I spent more time on exercises than lectures, which helped me grasp concepts better. However, I wish I had watched more videos on specific problems to better understand their applications.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Reflecting on my results, I think I did okay with Binary Search Trees but got stuck on a few questions in Sorting Algorithms. I need to make sure I read the question carefully next time.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I utilized quizzes and exercises effectively to reinforce my understanding of computer science concepts. However, I should have reviewed more resources before starting the study period.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "One thing that helped me was taking breaks during long study sessions. It allowed me to recharge and approach problems with a fresh perspective.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I think identifying my weaknesses was key in this week's studying. Recognizing that I need to practice more on Binary Search Trees has already made a difference in my understanding of the topic.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Engaging with lectures, quizzes, and exercises helped me consolidate knowledge and apply it to new situations. If I were to improve, I would spend even more time reviewing past assignments.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "The platform provided various learning materials that catered to different learning styles. This helped me find what worked best for my study habits and retain information better.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I could see the progress in understanding Binary Search Trees after practicing exercises regularly. It allowed me to internalize the concepts rather than just memorizing them.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I think I made progress on Binary Search Trees because the CompassX platform provided clear explanations and quizzes to reinforce my understanding. I struggled with sorting algorithms, so I'll focus on watching more lectures before attempting exercises.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "My time management was poor, but I prioritized topics and completed all assignments. For future study periods, I'll allocate more time for review and practice.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Reflecting on my progress, I realize I need to work on visualizing tree structures better. Watching additional videos and practicing problems will help me improve this skill.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I found quizzes challenging, so I took extra time to review material before attempting exercises. In the future, I'll try to balance learning with consistent practice.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "My approach was too superficial, focusing only on completing assignments quickly. However, I didn't fully grasp complex concepts. I need to slow down and truly understand each topic before moving forward.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I made progress by practicing exercises regularly and using the platform's resource library for reference. Next time, I'll also read through textbooks to gain a deeper understanding.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "After reviewing my results, I realize I need improvement in identifying and fixing errors quickly. Practicing with more complex problems will help me develop this skill.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Engaging with the CompassX community helped me stay motivated and learn from peers' mistakes. For future study periods, I'll make sure to participate in discussions and ask questions.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I struggled with sorting algorithms initially but persisted through exercises and watched additional lectures. Now, I see how concepts interconnect and will focus on building connections between topics in the next study period.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "My progress was hindered by not fully comprehending the theoretical background of Binary Search Trees. Watching more introductory lectures and taking notes helped me fill this knowledge gap.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I made significant progress on Binary Search Trees by creating interactive quizzes using CompassX's exercise feature. This helped me reinforce my understanding of tree traversal and balancing techniques.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Sorting Algorithms were challenging, but I improved through watching lectures and working on problems individually. I realized that practice is key to mastering these complex concepts.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I struggled with data structures at first, but re-watching the lecture video and breaking down examples into smaller parts helped me grasp the concepts better. This self-directed approach was crucial to my improvement.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "By tracking my progress using CompassX's quizzes and exercise logs, I identified areas where I needed more practice. Adjusting my study schedule to include more focused practice sessions yielded significant results.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "My understanding of tree data structures improved significantly when I participated in interactive exercises on CompassX. The immediate feedback from correct or incorrect answers reinforced my learning.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Reflecting on my mistakes during the week helped me identify a weakness in my approach to sorting algorithms. This reflection allowed me to adjust my strategy and improve over time.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Utilizing CompassX's lecture notes and resources, I tailored my learning plan to address specific weaknesses. This personalized approach paid off as I better understood complex concepts like recursive sorting algorithms.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "During the week, I found that my performance improved once I practiced solving problems on my own before checking answers on CompassX. This approach fostered a deeper understanding of Binary Search Trees and Sorting Algorithms.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "By taking more time to review and practice problems, I successfully overcame initial difficulties with sorting algorithms. Breaking down complex concepts into smaller parts made them more manageable for me.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I recognize now that my learning was influenced by the pace of the lectures \u2013 faster paced ones were more difficult to follow than slower paced ones. Adapting to different lecturers' styles has helped me in future learning experiences.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I made significant progress due to the interactive quizzes on Binary Search Trees. I struggled with exercises, but practicing them helped me understand the concepts better.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Lectures were helpful, but I think I could've benefited from more practice problems. I need to focus on improving my coding skills.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I found exercises to be too easy, so I opted for quizzes instead. This helped me identify areas where I needed improvement in Binary Search Trees.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Reflecting on my time spent studying, I realize I wasted a lot of time on topics outside the scope of the course. Next time, I'll focus on what's covered.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "The exercises were challenging, but they helped me develop problem-solving skills. I should've spent more time reviewing concepts before starting each exercise.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I made progress in understanding Sorting Algorithms by working through example problems and watching video lectures. However, I need to improve my ability to explain concepts clearly.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I struggled with Binary Search Trees because I didn't understand the underlying data structures. Now that I've grasped those fundamentals, I'm finding exercises easier.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Lectures were informative, but I didn't take as much notes as I should have. Next time, I'll make sure to review materials more thoroughly before exams.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I think my progress was hindered by not using the provided resources effectively. For example, I relied too heavily on quizzes instead of practicing exercises or watching lectures.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Reviewing notes and concepts after each lecture helped solidify my understanding of Binary Search Trees and Sorting Algorithms. This approach should be used in future study sessions as well.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I made significant progress on Binary Search Trees because I used CompassX's interactive quizzes to practice my understanding of tree traversal algorithms. I struggled with Sorting Algorithms, so I watched additional lectures to review the concepts.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I found that spending more time on exercises helped me solidify my grasp of sorting algorithms. The quizzes were too easy for me, which made it difficult to identify areas where I needed improvement.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "The lectures on Binary Search Trees were engaging, and I appreciated the real-world examples. However, I still struggled with applying the concepts to more complex problems.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I realized that my biggest strength was in understanding the theoretical aspects of Binary Search Trees. To improve, I should focus more on practical implementations.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "The quizzes helped me identify my weaknesses in Sorting Algorithms, particularly in handling edge cases. I'll review those topics again to improve my performance.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I think I made progress because I consistently practiced exercises and quizzes. However, I wish there were more resources available for advanced topics like heap data structures.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I found the lectures on Binary Search Trees informative, but I still had trouble understanding how to apply the concepts to specific use cases. More practical examples would be helpful.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Spending more time reviewing notes and practicing exercises helped me retain information better. This will be my strategy for future courses.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I didn't see significant progress because I only completed a week of studying, which wasn't enough time to fully grasp the topics. I need to increase my study pace or duration in the future.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I realized that I relied too heavily on lectures and not enough on exercises and quizzes. Next time, I'll prioritize practice problems to improve my skills.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "The interactive nature of CompassX's platform helped me engage with the material better than traditional teaching methods. This format will be ideal for future courses.",
+        "true_tag": "evaluating",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I spent more time reviewing notes and practicing exercises. This approach helped me understand Binary Search Trees better, but I struggled with Sorting Algorithms.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Lectures were helpful, but quizzes revealed my weakness in understanding tree structures. I need to focus on visual aids for better retention.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Engaging with the community through discussions boosted my confidence in Binary Search Tree implementation. However, I still find algorithms challenging.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Regular practice sessions allowed me to grasp sorting concepts quickly, but difficulties arose when applying them to real-world problems.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Quizzes forced me to identify areas where I needed more practice. I focused on exercises that target these weaknesses.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Reflecting on my time spent, I realized that less time was devoted to reviewing and practicing algorithms. Adjusting this balance could improve future outcomes.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "The variety of exercises and quizzes helped me develop a well-rounded understanding of Binary Search Trees. However, the pace of Sorting Algorithms was still challenging for me.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Engaging with tutorials and videos improved my grasp of tree structures but left me uncertain about when to apply them in practice scenarios.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Focusing on one concept at a time allowed me to deepen my understanding of Binary Search Trees. However, the broad scope of Sorting Algorithms still makes it difficult for me to achieve fluency.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I underestimated the amount of time required to master Binary Search Trees. With more practice and review, I believe this topic will become more manageable.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I made significant progress on Binary Search Trees because I practiced implementing algorithms through exercises. However, I struggled with understanding the time complexities, which held me back from mastering the topic.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Sorting Algorithms were my weak point. I found it challenging to visualize and compare different sorting techniques. To improve, I need more practice problems that require explanation and application.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I was surprised by how quickly I grasped Binary Search Trees. I attribute this to the interactive quizzes on CompassX, which helped me identify areas where I needed extra support.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "My time management skills were a challenge. If I had allocated more time for reviewing and practicing, I would have made better progress in Sorting Algorithms.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I realized that my approach to learning was too passive \u2013 watching lectures without actively taking notes or summarizing key points. To improve, I need to find ways to engage more with the material.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Binary Search Trees were a bit easier than I expected. This might be due to the clear explanations in the lectures and practice problems. However, Sorting Algorithms still require more effort from me.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "The quizzes on CompassX helped me identify my knowledge gaps, particularly in understanding the trade-offs between different sorting algorithms. This insight has allowed me to focus my studying more effectively.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I felt that I made progress in Binary Search Trees because I took advantage of the practice problems and exercises available on the platform. However, I still need to work on applying these concepts to real-world scenarios.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "My main struggle with Sorting Algorithms was translating theoretical concepts into practical implementation. To overcome this, I will make sure to work through more coding challenges that force me to apply what I've learned.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    }
+]

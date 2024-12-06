@@ -1,0 +1,193 @@
+text,tag
+"I forgot, it points to the same thing and not a copy of it like in Python",monitor
+I didn't realize there was no static keyword before the String type,monitor
+I missed the colon instead of the curly brackets,monitor
+I forgot to check my pointers.,monitor
+It gets overwritten. I should have checked that because it's a static variable.,monitor
+"I forgot to check pointer. Jim points to Dwight, so any changes to either will change the object for both pointers.",monitor
+I misread this material.,monitor
+The main module fulfills the role of a function.,monitor
+I forgot to check my pointer.,monitor
+"a and b point to the same value, until A changes",monitor
+"We are specifically printing lime, not just anything",monitor
+"I didn't know Java, so I couldn't print ints",monitor
+I think b does not change the pointer from 43; I guess,monitor
+"I'm not quite sure, actually.",monitor
+I misunderstood Python syntax,monitor
+"I thought referencing color or brand would confuse the code because it's a class variable, but it turns out that the method can change class variables since they were already declared.",monitor
+I didn't think to look whether there was a print command in the code.,monitor
+I didn't think that jan.jersey_number would also update when michael.jersey_number is increased,monitor
+I encountered an error with bracket formatting.,monitor
+I didn't think that forest.animal would also update.,monitor
+I didn't realize that the brand was static,monitor
+"I forgot, it points to the same thing and not a copy of it like in Python",monitor
+"I thought since it had to be similar to Python code, we had to make a method to add the numbers",monitor
+I'm unsure if I can call the `randomMethod()` function from `MyClass` since it's not a static method.,monitor
+I misclicked.,monitor
+I didn't pay enough attention to type declarations.,monitor
+I did not notice that the func() method is non-static.,monitor
+"I thought you needed to do this.add, but it makes sense given that it's inside the class. The only thing is I don't know what the point of 'this' is anymore outside of defining instance attributes and need clarification on its usage.",monitor
+It doesn't work because webreg doesn't contain the function `information()`,monitor
+Java non-static methods can't be referenced from a static context.,monitor
+I didn't pay close enough attention to the for loop.,monitor
+That's nuts. Using an int array will just remove the decimals.,monitor
+The default value of a declared int is indeed 0!,monitor
+"Bro, this is literally a type difference that's so mean.",monitor
+"This is the place to write, why I think I got this question wrong :)",monitor
+"I didn't do well on this test, I struggled with some questions.",monitor
+I didn't realize the variables were named differently,monitor
+I got confused between color and calories.,monitor
+I didn't realize I wasn't calling printPersonInfo().,monitor
+I didn't use semicolons,monitor
+"I didn't declare x, y, or z as integers.",monitor
+I just straight up didn't read this thoroughly.,monitor
+You don't have to @Override. You should also consider @Equals and @Hashcode.,monitor
+I'm struggling to grasp how Generics work,monitor
+I am not sure if the default int is always 0.,monitor
+The class can't implement the methods,monitor
+Is the object also in the Super Shape?,monitor
+No return type is needed. I did not see 'return' keyword.,monitor
+The line needed is: Apple.newRevenue = Apple.basicRevenue + Apple.changeRevenue;,monitor
+"I didn't do well overall. I struggled with some concepts, like pointer check and memory management. To improve, I will review notes and take practice problems.",monitor
+"I struggled with some topics, particularly advanced data structures. I need to review these topics more thoroughly and practice implementing algorithms.",monitor
+"I simply did not know the definition of overloading in Java, which is when a single parameter name is used with different data types.",monitor
+,monitor
+"I didn't realize that A was true, but it makes sense given that interfaces are specifically designed for inheritance",monitor
+"The variable T needs to be declared before usage, not 'in front of' voice.",monitor
+"DSC 30 extends webreg, but webreg does not extend DSC 30",monitor
+I'm not sure why I need @Override?,monitor
+"I thought they pointed to the same box, so it changes for both variables.",monitor
+I didn't understand,monitor
+The variable is static.,monitor
+I am confused,monitor
+I need to implement each method thoroughly.,monitor
+interface is not a class,monitor
+I'm confused,monitor
+I misread,monitor
+I misread,monitor
+I really think this is just wrong???,monitor
+"basically, it's the same as what I did before.",monitor
+I struggled with this test,monitor
+"Interfaces aren't classes, they are a subset of classes.",monitor
+"Interfaces are not classes, they define behavior",monitor
+I thought this was only for instance variables.,monitor
+"I missed that fruitInfo.getCalories() should return 0, not null, given this input.",monitor
+"Variables x and y do not have a type declared, which is incorrect.",monitor
+"When initializing the car objects, I ensure that each object is pointing to a unique address. When printing the object information from the two different addresses, this detail should be noted.",monitor
+"I didn't catch this - it's a reference type, and it will change.",monitor
+"I realized I need to be careful with reference types, especially when they change.",monitor
+I should make a change to reference.,monitor
+I don't understand this answer. The strings printed are not even in the class.,monitor
+line3: parameter is an integer.,monitor
+Line 3: Method header \<T\>,monitor
+line3: Method header<T>,monitor
+I forgot to check pointer on line 3: method header<T>,monitor
+line3: method parameter <T>,monitor
+An integer will have 0 as its default value,monitor
+"Uses implements, and an interface is just an interface.",monitor
+The system is missing an 'S'.,monitor
+Wrong initialization. I should have initialized DSC30 as 'dsc30_fall22' instead of 'new Webreg();',monitor
+The course name should be Webreg<CourseName> instead of DSC30<CourseName>.,monitor
+This is protected in parent class which can't be used in the subclass.,monitor
+Use a method from the parent class.,monitor
+The variable water_percent is protected,monitor
+Because the class did not implement properly,monitor
+"str has "" not '",monitor
+"I did well on questions that required understanding of data structures, but struggled with algorithms and implementations. I will review the code examples more carefully to understand the logic better.",monitor
+instance variable without value returns NaN,monitor
+I'm not sure why.,monitor
+"It still doesn't work huh, but that makes sense given the values of everything inside ArrayList is T. However, if the list typing is String then that probably wouldn't work.",monitor
+"I think, but technically, interfaces aren't classes right",monitor
+I made a mistake by misreading,monitor
+"So is it because it's constrained to the definitions of the functions inside of webreg, it can still use DSC30's version? I need to ask more about this in OH.",monitor
+I didn't know how the instance is being accessed,monitor
+Didn't know that ints get default initializations of 0.,monitor
+"I thought I saw ""protected"" instead of ""public"" for color and brand",monitor
+I wasn't reading,monitor
+I need to review static stuff again,monitor
+What does arrayEquals and new[] mean?,monitor
+"Do integers not serve as pointers? I guess that makes sense, lol.",monitor
+"Oh, obviously, if the condition is false, then there would be no return statement. LOL.",monitor
+Private variables are not accessible outside of the class. I should remember that.,monitor
+I initially believed age should be treated as a class attribute here,monitor
+"I thought that leg_count would err since it's not declared, but it is in fact declared just not set to an initial value.",monitor
+The function is not declared as static,monitor
+must declare the return type,monitor
+"I completely missed the catch for arithmetic exceptions, so I assumed they weren't there.",monitor
+"I assumed that when you call an ArrayList of a generic type, you also have to specify the kind of parameter it is.",monitor
+I looked at wrong,monitor
+Get car info is a static function,monitor
+"This function is a non-static method, so if we want to call it, we need to create an object first",monitor
+The water percentage is a private variable.,monitor
+I didn't see the 'static'},monitor
+I didn't know that this is the error that's thrown,monitor
+"The null check was correct, but the result should be false.",monitor
+"I thought this would create an error because the function is adding an int and another int, which should return an int not a float, which would result in an error for add().",monitor
+you're driving me crazy,monitor
+"Classes don't work the same as setting integers equal to each other. Here, when Jerry equals Tom, they always point at the same thing.",monitor
+"I got a score, super() was correct.",monitor
+"protected, private, earth",monitor
+ageUp() function takes a parameter as pass.,monitor
+Interface is not a class,monitor
+Static variable is shared by whole class,monitor
+I made a mistake,monitor
+"It contains static, which makes it so that it permanently changes the variables.",monitor
+It's good.,monitor
+I forgot to check for static in the getCarInfo method.,monitor
+Isn't overloading multiple methods that have the same name with different parameters,monitor
+I thought it would throw an exception that would be caught by the try-catch block,monitor
+I clicked the wrong answer.,monitor
+I didn't know if an interface can extend another one.,monitor
+I assumed they have the same meaning,monitor
+I read the code incorrectly,monitor
+"I think the answer is false; T is not declared in the class name, the code won't work.",monitor
+I got a chance question because the String[] isn't there,monitor
+I'm not sure if both options are correct.,monitor
+I missed that there was no <T> after the static keyword in line three.,monitor
+Abstract Java classes can have instance variables,monitor
+Type casting from int to float after multiplication.,monitor
+I realized there should be a public static String[].,monitor
+"I believe Professor is called without any parameters, and with parameters, it needs to use this() method.",monitor
+It does not have static in its double new revenue.,monitor
+Because new revenue isn't static.,monitor
+"Since ingredient 2 contains a static, it is built-in within the system and can continue running.",monitor
+I just didn't read the school sections and only looked at the numbers; I will review those next time.,monitor
+"The keyword is 'extends', not 'interfaces', but the rest was true. I forgot to consider that.",monitor
+I assumed 0 to be considered as null.,monitor
+review in order,monitor
+I got it right,monitor
+This is indeed correct,monitor
+I didn't realize I made an error,monitor
+"I thought it was an error, but I need to review my code again.",monitor
+I'm really surprised that this is wrong.,monitor
+"Remember that each tree in a merge sort algorithm doesn't run in parallel, rather it runs per each tree, meaning that it will only need the space of a single tree for each iteration at any given point, which ends up being O(N).",monitor
+"Oh, duh!",monitor
+I did not realize that there is a recursion that happens before the print statement.,monitor
+"5 is smaller than 6, but it seems on a lower level than 6",monitor
+I noticed more values under 1000 than values divisible by 20.,monitor
+"I forgot about the completeness property of heap. If I delete a node, something needs to replace it to maintain the parent-child relationship from left to right completeness property.",monitor
+"This doesn't make any sense, I need to ask my tutor.",monitor
+"I wouldn't put e at the start of the sorted array, that would result in an ascending sorted array. Instead I would put it at the end of the sorted array.",monitor
+"I didn't do very well on this test. I struggled with some concepts, but I will review the material again to better understand where I went wrong and how to improve for next time.",monitor
+I believe O(nlog(n)) has a greater time complexity than O(n).,monitor
+I thought about part D and meant to put E at the beginning of the sorted part.,monitor
+It would be very useful to provide solutions. I don't understand why you would get a false positive,monitor
+"Yeah, just study the hashes and stuff.",monitor
+I misread my notesheet,monitor
+I didn't read the head.next.next carefully enough.,monitor
+"I should take a note that ok, I will test the array size next time",monitor
+"For selection sort, you first check if the length is nonzero. Then find the smallest element. Put it at the end and reduce the length by one.",monitor
+"I struggled with some concepts, but I did well on others. In particular, I need to review my understanding of pointers and memory management.",monitor
+I didn't do well. I need to review more.,monitor
+I missed that line,monitor
+Didn't consider all the changes that need to be noted,monitor
+"I realized that if 8 doesn't move, it shouldn't count. I should also look for similar hesitations on the exam.",monitor
+I finally understand now. Only knew how to delete the root node before.,monitor
+I think the answer is wrong,monitor
+"I didn't do well on this test, but I'll review my notes for the next one. ",monitor
+I forgot,monitor
+"I picked this answer, but for some reason it didn't go through?",monitor
+Not correct here,monitor
+I guess you would be able to use both,monitor
+"I did well on some questions, but struggled with others.",monitor
+I did not remember about type specifications,monitor

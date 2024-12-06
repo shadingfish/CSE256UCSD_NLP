@@ -1,0 +1,193 @@
+ID,Code,Text,Monitoring (No Context),Monitoring (With Context)
+140,416,I forgot it points to the same thing and not a copy of it like in python,3,4
+140,252,didn't realize there was no static in front of String,0,2
+140,224,Missed the colon instead of the curly brackets,3,2
+140,248,pointer check,0,0
+140,243,It gets overwrited? What because it's static?,0,1
+140,419,pointer check. Jim points to dwight so any changes to either change the object for both pointers,2,4
+140,235,I misread this,1,2
+140,223,Main fulfills the role of function?,0,2
+140,422,pointer check,0,0
+144,401,"a and b point to the same value, until a chages",2,0
+144,227,We are printing lime specifically not just anything,1,4
+144,226,I didn't know java and print ints,0,2
+144,410,"b doesn't change pointer from 43, I guess",1,0
+144,257,I'm not sure actually,1,1
+149,233,misunderstand Python syntax,2,2
+156,248,"I thought that referencing color or brand would confuse the code because it's a class variable, but it turns out that the method can change class variables because they were already declared.",5,4
+38,254,I didn't think to look whether there was a print command in the code,2,1
+38,416,I didn't think that jan.jersey_number would also update when michael.jersey_number was increased,2,2
+38,224,Error regarding bracket formatting,0,2
+38,420,I didn't think that forrest.animal would also update,0,0
+38,250,I didn't see that brand is static,2,2
+140,416,I forgot it points to the same thing and not a copy of it like in python,2,5
+158,226,I thought since it had to be similar to the python code we had to make a method to add the numbers,2,1
+161,253,Unsure that you could call randomMethod() from MyClass as it wasn't a static method,0,4
+161,240,Misclicked,2,0
+161,231,Didn't pay attention to type declarations ,2,1
+176,252,I did not notice that the func() method was non-static.,2,3
+140,225,"I thought you needed to do this.add, but it makes sense given that it's inside the class. The only thing is I don't know what the point of ""this"" is anymore outside of defining instance attributes",0,4
+140,397,"Ohhhhh, it doesn't work because webreg doesn't contain information()",0,0
+125,210,Java non-static methods cannot be referenced from static context!,0,0
+140,759,didn't pay close enough attention to the for loop,2,2
+140,215,that's nuts. So using an int array must just get rid of the decimals,0,0
+140,384,"oooohhhhhh, the default value of a declared int is 0!",1,2
+140,325,bro this is literally a type difference that's so mean,0,1
+47,626,this is the place to write why I think I got this question wrong :) ,1,0
+140,766,rip,0,0
+140,386,didn't realize the variables were named differently,1,2
+140,264,confused get color and calories,1,1
+140,324,didn't realize that it wasn't printPersonInfo(),3,3
+140,230,no semi-colons lol,0,2
+140,225,"didn't declare x, y, or z as integers",0,0
+140,765,I just straight up didn't read this,1,0
+140,380,you don't have to @Override?,3,5
+168,762,I don't really understand how Generics work,0,1
+168,389,Is the default int just 0?,0,3
+168,328,The class cannot implement the methods,0,0
+168,766,Is object also in the super Shape?,0,4
+195,237,"no return type needed (did not see ""type"")",2,0
+195,339,line needed: Apple.newRevenue = Apple.basicRevenue + Apple.changeRevenue;,0,0
+199,220,?,0,0
+199,766,??,0,0
+176,332,I simply did not know the definition of overloading in Java.,0,0
+165,392,v,0,0
+140,373,"didn't realize a was true, but it makes sense considering interfaces are specifically made for inheritance",5,5
+140,764,<T> needs to be in front of voi,1,0
+140,395,DSC 30 extends webreg but webreg does not extend DSC 30,5,3
+140,381,@Override?,2,2
+168,399,I thought they pointed to the same box so it changed for both variables,2,2
+208,374,不了解,0,0
+208,243,static,0,0
+208,392,confused,0,0
+208,371,need to implement each method,0,1
+208,375,interface not a class,2,1
+208,257,confused,2,0
+156,260,misread,1,0
+156,612,misread,0,0
+156,605,I think this is just wrong???,1,3
+156,381,basically the same like what,2,2
+156,379,trolled,5,0
+156,376,interfaces aren't classes,2,5
+156,375,interfaces aren't classes,5,2
+156,393,thought this. was only for instance variables,3,2
+176,270,"I missed that fruitInfo.getCalories should return 0, not null, given this input.",3,5
+184,226,Variables x and y do not have a type declared.,0,0
+191,245,when initializing the car objects the addresses each object is pointing to should be different. when printing the object info information from the two different addresses should be printed,2,2
+195,418,reference type; change reference,0,2
+195,412,reference type; change reference,2,1
+195,421,reference type; change reference,1,0
+191,387,I don't get this answer. The strings printed are not even in the class,4,2
+195,759,line3: parameter is <integer>,5,5
+195,760,line3: method header <T>,4,0
+195,764,line3: method header<T>,4,0
+195,762,line3: method header<T>,5,5
+195,763,line3: method parameter <T>,2,2
+195,388,integer will have 0 as a default value,2,2
+168,376,"uses implements, and an interface is just an interface",0,0
+168,381,the System is missing an S,3,1
+195,397,wrong initialize: DSC30 dsc30_fall22 = new Webreg();,2,2
+195,392,Webreg.CourseName not DSC30.CourseName,0,0
+195,387,protected in parent class cannot be used in subclass,0,4
+195,389,use method in parent class,2,1
+195,391,water_percent is protected,2,4
+168,377,because the class didn't implement properly,2,0
+183,222,"str has "" "" not ' '",0,0
+172,257,???,0,0
+183,339,instance variable without value gives nan,3,0
+214,257,why,0,0
+140,763,"it still doesn't work huh but that makes sense given the values of everything inside of ArrayList is T, but if the list typing is String then that probably wouldn't work.",1,3
+140,238,I guess? But interfaces technically aren't classes right,2,3
+140,266,misread,2,2
+140,396,"So is it because it's constrained to the definitions of the functions inside of webreg, it can still use DSC30's version? I need to ask more about this in OH",4,2
+215,339,I didn't know how the instance was accessed,2,0
+215,389,Didn't know ints got default initializations of 0,0,4
+215,244,I thought I saw protected instead of public for color and brand,3,2
+156,373,Wasn't reading,0,1
+156,253,Gotta go back to static stuf,1,1
+156,261,wtf is arrayequals and what is new[],0,0
+216,410,do integers not serve as pointers? I guess that makes sense lol,2,1
+216,208,oh obviously if the condition is false then there would be no return statement lol,1,2
+144,391,Private variables are not accessible outside of the class,5,0
+144,380,I thought age is a class attribute here,2,2
+144,384,"I thought that leg_count would error since it's not declared, but it is in fact declared just not set to an initial value",5,5
+144,251,func() is not static,0,4
+131,229,must declare return type,1,2
+217,216,Just completely missed the catch arithmetic exception e so I answered assuming that wasn't there.,2,2
+213,753,I assumed when you called an Arraylist of a generic type you also had to specify what kind of parameter it is,0,1
+183,244,看错,2,0
+183,247,get car info is static function,0,5
+91,256,func is non static method so if we want to call this method we should create an object first,2,0
+91,391,water_percentage is private variable,5,2
+213,338,didn't see the 'static',0,1
+213,209,didn't know that this is the error that is thrown,2,2
+183,266,assertNull(0) is true,0,0
+222,215,"I thought this would create an error because the function is adding an int and another int, which should return an int not a float, which would result in an error for add(). ",4,4
+183,386,你在逗我,0,0
+207,414,"Classes do not work the same as setting integers equal to each other. Here, when jerry = tom they point at the same thing always",2,0
+183,390,super(),0,1
+183,391,protected private earth,0,0
+183,381,ageUp() has parameter pass in.,1,2
+131,376,interface is not a class,5,1
+183,378,static for class attribute,0,0
+183,374,看错,0,0
+163,245,it contain static. Static makes it so that it permantelty changes the variables. ,0,0
+163,258,it's good,1,0
+163,247,it has static in the getcarinfo,1,1
+193,332,???? Isn't overloading multiple methods that have the same name with different parameters,0,2
+204,216,I thought it would throw an exception that would be caught by the try catch block,4,4
+129,204,clicked the wrong answer,2,1
+149,374,didn't know if an interface can extend another one,1,0
+149,333,assumed these two have the same meaning,2,1
+149,262,read the code wrong,0,2
+149,753,"I think the answer is false, <T> is not declared in the class name, the code won't work",4,4
+140,347,gatcha question cuz the String[] isn't there,0,0
+161,329,Both work?,0,1
+176,762,I missed that there was no <T> after the static keyword in line three.,4,3
+161,374,Abstract java classes can have instance variables ,0,2
+191,215,typecast from int multiplication to float?,2,2
+163,333,There must be public static String[],0,0
+163,344,"Professor with no parameter, supers. With a parameter, needs to use this(). I believe so.",0,0
+163,339,It does not have static in its Double new revenue. ,0,1
+185,339,because newRevenue isn't static,2,2
+163,337,"Since ingredient 2, contains a static. It is built in within the system and can continue running. ",3,3
+146,414,I just didn't read the school sections and only looked at the numbers.,0,1
+146,376,"The keyword is extends, not interfaces, but the rest was true. I forgot about that.",2,2
+149,264,assumed 0 to be considered as null,1,5
+182,645,Review in order,0,0
+182,641,I got it correct,1,0
+182,641,This is correct,0,1
+33,756,I didn't realize it wasn't an error,0,4
+33,758,I thought it was an error,3,2
+33,645,Wow I can't believe this is wrong,2,1
+140,615,"remember that each tree in a merge sort algorithm doesn't run in parallel, rather it runs per each tree, meaning that it will only need the space of a single tree for each iteration in at any given point, which ends up being O(N)",4,0
+140,521,oh duh,0,0
+168,517,did not realize there is a recursion that happens before the print statement,2,4
+168,660,"5 is smaller than 6, but it appears on a lower level than 6",3,0
+140,693,More values under 1000 than values divisible by 20,5,2
+140,667,Forgot about completeness property of heap. If 11 is deleted something needs to replace it to maintain the parent child from left to right completeness property,4,2
+140,522,"This makes no sense, ask tutor",2,0
+140,606,"I wouldn't put e at the start of the sorted array, that would end in an ascending sorted array. Instead I would put it at the end of the sorted array",4,4
+136,700,Haven,0,0
+136,610,Thought O(nlog(n)) had greater time complexity than (O(n)),0,0
+136,606,Thought part d. meant putting e at the beginning of the sorted part,1,2
+191,701,Would be useful to provide solutions. Don't get how you would get false positive,4,2
+136,720,"Yea, just study the hashes and stuff",1,0
+136,599,Misread notesheet,2,2
+136,516,Didn't read the head.next.next carefully enough,0,2
+136,600,"Ok, just test the array size next time",0,1
+163,606,"for selection sort, you first check if the length is nonzero. Then find the smallest element. Put e at the end . and reduce the length by one,",0,2
+206,642,???,0,0
+201,636,none,0,0
+229,762,missed that line,2,3
+136,607,Didn't consider all changes should be noted,2,2
+136,603,Thought because 8 didn't move it didn't count. Could clarify a similar hesitation on the exam.,2,4
+136,670,"Ok, I get it know. Only knew how to delete the root node before.",2,2
+149,608,?the answer is wrong,2,2
+149,664,???????,0,0
+140,628,lol I forgot,0,1
+140,641,I picked this answer but for some reason it \\didn't go through?,2,3
+156,642,Literally not correct here,1,1
+140,766,I guess you'd be able to use both,0,0
+140,391,private,0,0
+33,236,I did not remember about type specification,1,2

@@ -1,0 +1,31 @@
+Metrics for monitor:
+TP: 0
+FP: 0
+FN: 20
+TN: 0
+errors: 0
+accuracy: 0.0
+total_time: 13.32415223121643
+avg_time_per_sample: 0.6662076115608215
+
+Detailed Results:
+{"text": "I forgot, it points to the same thing and not a copy of it like in Python", "true_tag": "monitor", "predicted_tag": "na", "error": false}
+{"text": "I didn't realize there was no static keyword before the String type", "true_tag": "monitor", "predicted_tag": "evaluating", "error": false}
+{"text": "I missed the colon instead of the curly brackets", "true_tag": "monitor", "predicted_tag": "na", "error": false}
+{"text": "I forgot to check my pointers.", "true_tag": "monitor", "predicted_tag": "na", "error": false}
+{"text": "It gets overwritten. I should have checked that because it's a static variable.", "true_tag": "monitor", "predicted_tag": "monitoring", "error": false}
+{"text": "I forgot to check pointer. Jim points to Dwight, so any changes to either will change the object for both pointers.", "true_tag": "monitor", "predicted_tag": "monitoring", "error": false}
+{"text": "I misread this material.", "true_tag": "monitor", "predicted_tag": "na", "error": false}
+{"text": "The main module fulfills the role of a function.", "true_tag": "monitor", "predicted_tag": "na", "error": false}
+{"text": "I forgot to check my pointer.", "true_tag": "monitor", "predicted_tag": "na", "error": false}
+{"text": "a and b point to the same value, until A changes", "true_tag": "monitor", "predicted_tag": "evaluating", "error": false}
+{"text": "We are specifically printing lime, not just anything", "true_tag": "monitor", "predicted_tag": "evaluating", "error": false}
+{"text": "I didn't know Java, so I couldn't print ints", "true_tag": "monitor", "predicted_tag": "na", "error": false}
+{"text": "I think b does not change the pointer from 43; I guess", "true_tag": "monitor", "predicted_tag": "na", "error": false}
+{"text": "I'm not quite sure, actually.", "true_tag": "monitor", "predicted_tag": "na", "error": false}
+{"text": "I misunderstood Python syntax", "true_tag": "monitor", "predicted_tag": "na", "error": false}
+{"text": "I thought referencing color or brand would confuse the code because it's a class variable, but it turns out that the method can change class variables since they were already declared.", "true_tag": "monitor", "predicted_tag": "evaluating", "error": false}
+{"text": "I didn't think to look whether there was a print command in the code.", "true_tag": "monitor", "predicted_tag": "na", "error": false}
+{"text": "I didn't think that jan.jersey_number would also update when michael.jersey_number is increased", "true_tag": "monitor", "predicted_tag": "evaluating", "error": false}
+{"text": "I encountered an error with bracket formatting.", "true_tag": "monitor", "predicted_tag": "monitoring", "error": false}
+{"text": "I didn't think that forest.animal would also update.", "true_tag": "monitor", "predicted_tag": "na", "error": false}

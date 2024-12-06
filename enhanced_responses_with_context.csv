@@ -1,0 +1,193 @@
+ID,Code,Original Text,Enhanced Text
+140,416,I forgot it points to the same thing and not a copy of it like in python,"I forgot, it points to the same thing and not a copy of it like in Python"
+140,252,didn't realize there was no static in front of String,I didn't realize there was no static keyword before the String type
+140,224,Missed the colon instead of the curly brackets,I missed the colon instead of the curly brackets
+140,248,pointer check,I forgot to check my pointers.
+140,243,It gets overwrited? What because it's static?,It gets overwritten. I should have checked that because it's a static variable.
+140,419,pointer check. Jim points to dwight so any changes to either change the object for both pointers,"I forgot to check pointer. Jim points to Dwight, so any changes to either will change the object for both pointers."
+140,235,I misread this,I misread this material.
+140,223,Main fulfills the role of function?,The main module fulfills the role of a function.
+140,422,pointer check,I forgot to check my pointer.
+144,401,"a and b point to the same value, until a chages","a and b point to the same value, until A changes"
+144,227,We are printing lime specifically not just anything,"We are specifically printing lime, not just anything"
+144,226,I didn't know java and print ints,"I didn't know Java, so I couldn't print ints"
+144,410,"b doesn't change pointer from 43, I guess",I think b does not change the pointer from 43; I guess
+144,257,I'm not sure actually,"I'm not quite sure, actually."
+149,233,misunderstand Python syntax,I misunderstood Python syntax
+156,248,"I thought that referencing color or brand would confuse the code because it's a class variable, but it turns out that the method can change class variables because they were already declared.","I thought referencing color or brand would confuse the code because it's a class variable, but it turns out that the method can change class variables since they were already declared."
+38,254,I didn't think to look whether there was a print command in the code,I didn't think to look whether there was a print command in the code.
+38,416,I didn't think that jan.jersey_number would also update when michael.jersey_number was increased,I didn't think that jan.jersey_number would also update when michael.jersey_number is increased
+38,224,Error regarding bracket formatting,I encountered an error with bracket formatting.
+38,420,I didn't think that forrest.animal would also update,I didn't think that forest.animal would also update.
+38,250,I didn't see that brand is static,I didn't realize that the brand was static
+140,416,I forgot it points to the same thing and not a copy of it like in python,"I forgot, it points to the same thing and not a copy of it like in Python"
+158,226,I thought since it had to be similar to the python code we had to make a method to add the numbers,"I thought since it had to be similar to Python code, we had to make a method to add the numbers"
+161,253,Unsure that you could call randomMethod() from MyClass as it wasn't a static method,I'm unsure if I can call the `randomMethod()` function from `MyClass` since it's not a static method.
+161,240,Misclicked,I misclicked.
+161,231,Didn't pay attention to type declarations ,I didn't pay enough attention to type declarations.
+176,252,I did not notice that the func() method was non-static.,I did not notice that the func() method is non-static.
+140,225,"I thought you needed to do this.add, but it makes sense given that it's inside the class. The only thing is I don't know what the point of ""this"" is anymore outside of defining instance attributes","I thought you needed to do this.add, but it makes sense given that it's inside the class. The only thing is I don't know what the point of 'this' is anymore outside of defining instance attributes and need clarification on its usage."
+140,397,"Ohhhhh, it doesn't work because webreg doesn't contain information()",It doesn't work because webreg doesn't contain the function `information()`
+125,210,Java non-static methods cannot be referenced from static context!,Java non-static methods can't be referenced from a static context.
+140,759,didn't pay close enough attention to the for loop,I didn't pay close enough attention to the for loop.
+140,215,that's nuts. So using an int array must just get rid of the decimals,That's nuts. Using an int array will just remove the decimals.
+140,384,"oooohhhhhh, the default value of a declared int is 0!",The default value of a declared int is indeed 0!
+140,325,bro this is literally a type difference that's so mean,"Bro, this is literally a type difference that's so mean."
+47,626,this is the place to write why I think I got this question wrong :) ,"This is the place to write, why I think I got this question wrong :)"
+140,766,rip,"I didn't do well on this test, I struggled with some questions."
+140,386,didn't realize the variables were named differently,I didn't realize the variables were named differently
+140,264,confused get color and calories,I got confused between color and calories.
+140,324,didn't realize that it wasn't printPersonInfo(),I didn't realize I wasn't calling printPersonInfo().
+140,230,no semi-colons lol,I didn't use semicolons
+140,225,"didn't declare x, y, or z as integers","I didn't declare x, y, or z as integers."
+140,765,I just straight up didn't read this,I just straight up didn't read this thoroughly.
+140,380,you don't have to @Override?,You don't have to @Override. You should also consider @Equals and @Hashcode.
+168,762,I don't really understand how Generics work,I'm struggling to grasp how Generics work
+168,389,Is the default int just 0?,I am not sure if the default int is always 0.
+168,328,The class cannot implement the methods,The class can't implement the methods
+168,766,Is object also in the super Shape?,Is the object also in the Super Shape?
+195,237,"no return type needed (did not see ""type"")",No return type is needed. I did not see 'return' keyword.
+195,339,line needed: Apple.newRevenue = Apple.basicRevenue + Apple.changeRevenue;,The line needed is: Apple.newRevenue = Apple.basicRevenue + Apple.changeRevenue;
+199,220,?,"I didn't do well overall. I struggled with some concepts, like pointer check and memory management. To improve, I will review notes and take practice problems."
+199,766,??,"I struggled with some topics, particularly advanced data structures. I need to review these topics more thoroughly and practice implementing algorithms."
+176,332,I simply did not know the definition of overloading in Java.,"I simply did not know the definition of overloading in Java, which is when a single parameter name is used with different data types."
+165,392,v,
+140,373,"didn't realize a was true, but it makes sense considering interfaces are specifically made for inheritance","I didn't realize that A was true, but it makes sense given that interfaces are specifically designed for inheritance"
+140,764,<T> needs to be in front of voi,"The variable T needs to be declared before usage, not 'in front of' voice."
+140,395,DSC 30 extends webreg but webreg does not extend DSC 30,"DSC 30 extends webreg, but webreg does not extend DSC 30"
+140,381,@Override?,I'm not sure why I need @Override?
+168,399,I thought they pointed to the same box so it changed for both variables,"I thought they pointed to the same box, so it changes for both variables."
+208,374,不了解,I didn't understand
+208,243,static,The variable is static.
+208,392,confused,I am confused
+208,371,need to implement each method,I need to implement each method thoroughly.
+208,375,interface not a class,interface is not a class
+208,257,confused,I'm confused
+156,260,misread,I misread
+156,612,misread,I misread
+156,605,I think this is just wrong???,I really think this is just wrong???
+156,381,basically the same like what,"basically, it's the same as what I did before."
+156,379,trolled,I struggled with this test
+156,376,interfaces aren't classes,"Interfaces aren't classes, they are a subset of classes."
+156,375,interfaces aren't classes,"Interfaces are not classes, they define behavior"
+156,393,thought this. was only for instance variables,I thought this was only for instance variables.
+176,270,"I missed that fruitInfo.getCalories should return 0, not null, given this input.","I missed that fruitInfo.getCalories() should return 0, not null, given this input."
+184,226,Variables x and y do not have a type declared.,"Variables x and y do not have a type declared, which is incorrect."
+191,245,when initializing the car objects the addresses each object is pointing to should be different. when printing the object info information from the two different addresses should be printed,"When initializing the car objects, I ensure that each object is pointing to a unique address. When printing the object information from the two different addresses, this detail should be noted."
+195,418,reference type; change reference,"I didn't catch this - it's a reference type, and it will change."
+195,412,reference type; change reference,"I realized I need to be careful with reference types, especially when they change."
+195,421,reference type; change reference,I should make a change to reference.
+191,387,I don't get this answer. The strings printed are not even in the class,I don't understand this answer. The strings printed are not even in the class.
+195,759,line3: parameter is <integer>,line3: parameter is an integer.
+195,760,line3: method header <T>,Line 3: Method header \<T\>
+195,764,line3: method header<T>,line3: Method header<T>
+195,762,line3: method header<T>,I forgot to check pointer on line 3: method header<T>
+195,763,line3: method parameter <T>,line3: method parameter <T>
+195,388,integer will have 0 as a default value,An integer will have 0 as its default value
+168,376,"uses implements, and an interface is just an interface","Uses implements, and an interface is just an interface."
+168,381,the System is missing an S,The system is missing an 'S'.
+195,397,wrong initialize: DSC30 dsc30_fall22 = new Webreg();,Wrong initialization. I should have initialized DSC30 as 'dsc30_fall22' instead of 'new Webreg();'
+195,392,Webreg.CourseName not DSC30.CourseName,The course name should be Webreg<CourseName> instead of DSC30<CourseName>.
+195,387,protected in parent class cannot be used in subclass,This is protected in parent class which can't be used in the subclass.
+195,389,use method in parent class,Use a method from the parent class.
+195,391,water_percent is protected,The variable water_percent is protected
+168,377,because the class didn't implement properly,Because the class did not implement properly
+183,222,"str has "" "" not ' '","str has "" not '"
+172,257,???,"I did well on questions that required understanding of data structures, but struggled with algorithms and implementations. I will review the code examples more carefully to understand the logic better."
+183,339,instance variable without value gives nan,instance variable without value returns NaN
+214,257,why,I'm not sure why.
+140,763,"it still doesn't work huh but that makes sense given the values of everything inside of ArrayList is T, but if the list typing is String then that probably wouldn't work.","It still doesn't work huh, but that makes sense given the values of everything inside ArrayList is T. However, if the list typing is String then that probably wouldn't work."
+140,238,I guess? But interfaces technically aren't classes right,"I think, but technically, interfaces aren't classes right"
+140,266,misread,I made a mistake by misreading
+140,396,"So is it because it's constrained to the definitions of the functions inside of webreg, it can still use DSC30's version? I need to ask more about this in OH","So is it because it's constrained to the definitions of the functions inside of webreg, it can still use DSC30's version? I need to ask more about this in OH."
+215,339,I didn't know how the instance was accessed,I didn't know how the instance is being accessed
+215,389,Didn't know ints got default initializations of 0,Didn't know that ints get default initializations of 0.
+215,244,I thought I saw protected instead of public for color and brand,"I thought I saw ""protected"" instead of ""public"" for color and brand"
+156,373,Wasn't reading,I wasn't reading
+156,253,Gotta go back to static stuf,I need to review static stuff again
+156,261,wtf is arrayequals and what is new[],What does arrayEquals and new[] mean?
+216,410,do integers not serve as pointers? I guess that makes sense lol,"Do integers not serve as pointers? I guess that makes sense, lol."
+216,208,oh obviously if the condition is false then there would be no return statement lol,"Oh, obviously, if the condition is false, then there would be no return statement. LOL."
+144,391,Private variables are not accessible outside of the class,Private variables are not accessible outside of the class. I should remember that.
+144,380,I thought age is a class attribute here,I initially believed age should be treated as a class attribute here
+144,384,"I thought that leg_count would error since it's not declared, but it is in fact declared just not set to an initial value","I thought that leg_count would err since it's not declared, but it is in fact declared just not set to an initial value."
+144,251,func() is not static,The function is not declared as static
+131,229,must declare return type,must declare the return type
+217,216,Just completely missed the catch arithmetic exception e so I answered assuming that wasn't there.,"I completely missed the catch for arithmetic exceptions, so I assumed they weren't there."
+213,753,I assumed when you called an Arraylist of a generic type you also had to specify what kind of parameter it is,"I assumed that when you call an ArrayList of a generic type, you also have to specify the kind of parameter it is."
+183,244,看错,I looked at wrong
+183,247,get car info is static function,Get car info is a static function
+91,256,func is non static method so if we want to call this method we should create an object first,"This function is a non-static method, so if we want to call it, we need to create an object first"
+91,391,water_percentage is private variable,The water percentage is a private variable.
+213,338,didn't see the 'static',I didn't see the 'static'}
+213,209,didn't know that this is the error that is thrown,I didn't know that this is the error that's thrown
+183,266,assertNull(0) is true,"The null check was correct, but the result should be false."
+222,215,"I thought this would create an error because the function is adding an int and another int, which should return an int not a float, which would result in an error for add(). ","I thought this would create an error because the function is adding an int and another int, which should return an int not a float, which would result in an error for add()."
+183,386,你在逗我,you're driving me crazy
+207,414,"Classes do not work the same as setting integers equal to each other. Here, when jerry = tom they point at the same thing always","Classes don't work the same as setting integers equal to each other. Here, when Jerry equals Tom, they always point at the same thing."
+183,390,super(),"I got a score, super() was correct."
+183,391,protected private earth,"protected, private, earth"
+183,381,ageUp() has parameter pass in.,ageUp() function takes a parameter as pass.
+131,376,interface is not a class,Interface is not a class
+183,378,static for class attribute,Static variable is shared by whole class
+183,374,看错,I made a mistake
+163,245,it contain static. Static makes it so that it permantelty changes the variables. ,"It contains static, which makes it so that it permanently changes the variables."
+163,258,it's good,It's good.
+163,247,it has static in the getcarinfo,I forgot to check for static in the getCarInfo method.
+193,332,???? Isn't overloading multiple methods that have the same name with different parameters,Isn't overloading multiple methods that have the same name with different parameters
+204,216,I thought it would throw an exception that would be caught by the try catch block,I thought it would throw an exception that would be caught by the try-catch block
+129,204,clicked the wrong answer,I clicked the wrong answer.
+149,374,didn't know if an interface can extend another one,I didn't know if an interface can extend another one.
+149,333,assumed these two have the same meaning,I assumed they have the same meaning
+149,262,read the code wrong,I read the code incorrectly
+149,753,"I think the answer is false, <T> is not declared in the class name, the code won't work","I think the answer is false; T is not declared in the class name, the code won't work."
+140,347,gatcha question cuz the String[] isn't there,I got a chance question because the String[] isn't there
+161,329,Both work?,I'm not sure if both options are correct.
+176,762,I missed that there was no <T> after the static keyword in line three.,I missed that there was no <T> after the static keyword in line three.
+161,374,Abstract java classes can have instance variables ,Abstract Java classes can have instance variables
+191,215,typecast from int multiplication to float?,Type casting from int to float after multiplication.
+163,333,There must be public static String[],I realized there should be a public static String[].
+163,344,"Professor with no parameter, supers. With a parameter, needs to use this(). I believe so.","I believe Professor is called without any parameters, and with parameters, it needs to use this() method."
+163,339,It does not have static in its Double new revenue. ,It does not have static in its double new revenue.
+185,339,because newRevenue isn't static,Because new revenue isn't static.
+163,337,"Since ingredient 2, contains a static. It is built in within the system and can continue running. ","Since ingredient 2 contains a static, it is built-in within the system and can continue running."
+146,414,I just didn't read the school sections and only looked at the numbers.,I just didn't read the school sections and only looked at the numbers; I will review those next time.
+146,376,"The keyword is extends, not interfaces, but the rest was true. I forgot about that.","The keyword is 'extends', not 'interfaces', but the rest was true. I forgot to consider that."
+149,264,assumed 0 to be considered as null,I assumed 0 to be considered as null.
+182,645,Review in order,review in order
+182,641,I got it correct,I got it right
+182,641,This is correct,This is indeed correct
+33,756,I didn't realize it wasn't an error,I didn't realize I made an error
+33,758,I thought it was an error,"I thought it was an error, but I need to review my code again."
+33,645,Wow I can't believe this is wrong,I'm really surprised that this is wrong.
+140,615,"remember that each tree in a merge sort algorithm doesn't run in parallel, rather it runs per each tree, meaning that it will only need the space of a single tree for each iteration in at any given point, which ends up being O(N)","Remember that each tree in a merge sort algorithm doesn't run in parallel, rather it runs per each tree, meaning that it will only need the space of a single tree for each iteration at any given point, which ends up being O(N)."
+140,521,oh duh,"Oh, duh!"
+168,517,did not realize there is a recursion that happens before the print statement,I did not realize that there is a recursion that happens before the print statement.
+168,660,"5 is smaller than 6, but it appears on a lower level than 6","5 is smaller than 6, but it seems on a lower level than 6"
+140,693,More values under 1000 than values divisible by 20,I noticed more values under 1000 than values divisible by 20.
+140,667,Forgot about completeness property of heap. If 11 is deleted something needs to replace it to maintain the parent child from left to right completeness property,"I forgot about the completeness property of heap. If I delete a node, something needs to replace it to maintain the parent-child relationship from left to right completeness property."
+140,522,"This makes no sense, ask tutor","This doesn't make any sense, I need to ask my tutor."
+140,606,"I wouldn't put e at the start of the sorted array, that would end in an ascending sorted array. Instead I would put it at the end of the sorted array","I wouldn't put e at the start of the sorted array, that would result in an ascending sorted array. Instead I would put it at the end of the sorted array."
+136,700,Haven,"I didn't do very well on this test. I struggled with some concepts, but I will review the material again to better understand where I went wrong and how to improve for next time."
+136,610,Thought O(nlog(n)) had greater time complexity than (O(n)),I believe O(nlog(n)) has a greater time complexity than O(n).
+136,606,Thought part d. meant putting e at the beginning of the sorted part,I thought about part D and meant to put E at the beginning of the sorted part.
+191,701,Would be useful to provide solutions. Don't get how you would get false positive,It would be very useful to provide solutions. I don't understand why you would get a false positive
+136,720,"Yea, just study the hashes and stuff","Yeah, just study the hashes and stuff."
+136,599,Misread notesheet,I misread my notesheet
+136,516,Didn't read the head.next.next carefully enough,I didn't read the head.next.next carefully enough.
+136,600,"Ok, just test the array size next time","I should take a note that ok, I will test the array size next time"
+163,606,"for selection sort, you first check if the length is nonzero. Then find the smallest element. Put e at the end . and reduce the length by one,","For selection sort, you first check if the length is nonzero. Then find the smallest element. Put it at the end and reduce the length by one."
+206,642,???,"I struggled with some concepts, but I did well on others. In particular, I need to review my understanding of pointers and memory management."
+201,636,none,I didn't do well. I need to review more.
+229,762,missed that line,I missed that line
+136,607,Didn't consider all changes should be noted,Didn't consider all the changes that need to be noted
+136,603,Thought because 8 didn't move it didn't count. Could clarify a similar hesitation on the exam.,"I realized that if 8 doesn't move, it shouldn't count. I should also look for similar hesitations on the exam."
+136,670,"Ok, I get it know. Only knew how to delete the root node before.",I finally understand now. Only knew how to delete the root node before.
+149,608,?the answer is wrong,I think the answer is wrong
+149,664,???????,"I didn't do well on this test, but I'll review my notes for the next one. "
+140,628,lol I forgot,I forgot
+140,641,I picked this answer but for some reason it \\didn't go through?,"I picked this answer, but for some reason it didn't go through?"
+156,642,Literally not correct here,Not correct here
+140,766,I guess you'd be able to use both,I guess you would be able to use both
+140,391,private,"I did well on some questions, but struggled with others."
+33,236,I did not remember about type specification,I did not remember about type specifications

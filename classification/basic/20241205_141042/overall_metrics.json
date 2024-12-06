@@ -1,0 +1,26 @@
+{
+    "planning": {
+        "precision": 0.8974358974358975,
+        "recall": 0.875,
+        "f1_score": 0.8860759493670887,
+        "accuracy": 0.925
+    },
+    "monitor": {
+        "precision": 0.17647058823529413,
+        "recall": 0.0375,
+        "f1_score": 0.06185567010309278,
+        "accuracy": 0.6208333333333333
+    },
+    "evaluating": {
+        "precision": 0.7252747252747253,
+        "recall": 0.825,
+        "f1_score": 0.7719298245614036,
+        "accuracy": 0.8375
+    },
+    "na": {
+        "precision": 0.0,
+        "recall": 0,
+        "f1_score": 0,
+        "accuracy": 0.775
+    }
+}

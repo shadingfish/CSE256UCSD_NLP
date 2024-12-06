@@ -1,0 +1,602 @@
+[
+    {
+        "text": "The weather was nice today, and I enjoyed my walk in the park.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I had coffee this morning and it tasted great.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The movie I watched yesterday was really entertaining.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "My cat is sleeping on the couch right now.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I'm listening to music while I work.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The flowers in my garden are blooming nicely.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I just ate a sandwich for lunch.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The news about the latest sports game was interesting.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "My friend called me yesterday and we talked for a bit.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I'm reading a book on my break.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The weather was nice today, and I enjoyed my walk in the park.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I had coffee this morning and it tasted great.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The movie I watched yesterday was really entertaining.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I like the sound of birds chirping.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "My cat is sleeping right now.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I'm reading a book on my break.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The food at the restaurant was delicious.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I've been listening to music all day.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The flowers in my garden are blooming beautifully.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I had a good conversation with a friend yesterday.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The cat is sleeping on the couch.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I saw a nice sunset last night.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I'm listening to music right now.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The book I read was interesting.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I had a good conversation with my friend yesterday.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The food at this restaurant is delicious.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The baby laughed at the silly video.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The flowers in the garden are blooming nicely.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I'm watching TV right now.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The news report was informative.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The weather was nice today, and I enjoyed my walk in the park.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I had coffee this morning and it tasted great.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The movie I watched yesterday was really entertaining.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "My friend is visiting from out of town.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I love listening to classical music.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The restaurant we went to last night served great food.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The park where we played soccer had a lot of trees.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I like spending time with my family on the weekends.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The new TV show I started watching is really good so far.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I went to the beach over the weekend and it was nice.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The weather was nice today, and I enjoyed my walk in the park.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I had coffee this morning and it tasted great.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The movie I watched yesterday was really entertaining.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I like the sound of rain on the roof when I'm sleeping.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "My favorite color is blue, and I have many blue shirts.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The smell of freshly baked cookies is amazing.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I went to the beach last weekend and had a great time.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I like watching TV on Sundays, it's my relaxation day.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "My favorite food is pizza, I could eat it every day.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The view from the top of the mountain was breathtaking.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The weather was nice today, and I enjoyed my walk in the park.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I had coffee this morning and it tasted great.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The movie I watched yesterday was really entertaining.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I saw a bird outside my window this morning.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "My favorite food is pizza.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I like listening to music while I work.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The new book I bought has an interesting cover.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I took a nap yesterday and it felt great.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I visited my friend over the weekend.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The restaurant I went to had good service.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I love listening to music while I work.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The food at the new restaurant was really good.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "My dog is very playful when he sees me come home.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I like the way the sunlight filters through the windows.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The new employee seems friendly and welcoming.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I enjoy taking long walks in the countryside.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The sound of the ocean is so calming.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "My favorite hobby is reading historical fiction books.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I had a great conversation with my friend last night.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The colors in this painting are really vibrant and interesting.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The flowers are blooming beautifully in the garden.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I saw a bird outside my window this morning.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "My favorite book is on my nightstand.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The music playing today is really nice.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I had lunch at a new restaurant downtown.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The room in the hotel was cozy and comfortable.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I saw an interesting documentary last night.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "My friend invited me to try out this new ice cream shop.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The view from the top of the hill is breathtaking.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I met a nice person at the grocery store yesterday.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The coffee maker at the office is really loud.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I like the new design of my favorite shirt.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The smell of freshly baked cookies is amazing.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I love listening to music while I drive.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "My favorite food is pizza, and I had it for dinner tonight.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The sound of the ocean is so calming.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I have a pet cat named Luna, and she's really cute.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I enjoy spending time with my friends on weekends.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "My favorite book is Harry Potter, and I've read it multiple times.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The view from the top of the mountain was breathtaking.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The flowers were blooming beautifully in the garden.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I heard a great new song on the radio yesterday.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The food at the restaurant was delicious.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I saw an interesting documentary last night.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The park was peaceful and quiet during my visit.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I had a good time playing with my dog today.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "The new game I started is really fun to play.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I love listening to classical music in the evenings.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "My friend just got a new pet and it's adorable.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I was surprised by how much I enjoyed that book.",
+        "true_tag": "na",
+        "predicted_tag": "na",
+        "error": false
+    }
+]

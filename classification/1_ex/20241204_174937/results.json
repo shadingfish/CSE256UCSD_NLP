@@ -1,0 +1,482 @@
+[
+    {
+        "text": "I made significant progress on Binary Search Trees because I practiced implementing them in exercises and took detailed notes during lectures. However, I struggled with Sorting Algorithms due to a lack of clear explanations.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Reflecting on my time, I noticed that I spent more time on quizzes than exercises. To improve, I'll allocate equal time for both to reinforce understanding.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I made progress in Binary Search Trees by breaking down complex concepts into smaller steps and creating visual aids. However, Sorting Algorithms were challenging due to the complexity of algorithms.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Through the exercises on Computer Science topics, I realized that my strength lies in understanding theoretical aspects, but I need to work on applying them practically.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I think I made progress because I consistently engaged with the lectures and participated in discussions. However, I still struggle with implementing algorithms due to a lack of hands-on experience.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "In retrospect, I should have allocated more time for reviewing notes and practicing problems. This would have helped me retain information better.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "My approach on Binary Search Trees was effective because I used analogies to explain complex concepts. However, Sorting Algorithms were tough due to the fast pace of learning.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I think my progress was hindered by not seeking help early enough when I struggled with certain topics. This led to frustration and wasted time.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "After analyzing my performance on quizzes, I noticed that I tend to struggle with questions involving recursion. To improve, I'll focus on this specific area in future practice.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "In the past week, I made significant progress on Binary Search Trees by creating interactive diagrams and explaining them to myself. However, Sorting Algorithms were difficult because they require advanced mathematical concepts.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I think I made significant progress on Binary Search Trees because I watched the lectures multiple times, practiced with exercises, and understood how to apply it through quizzes.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "My approach worked well for some topics like Sorting Algorithms, but I struggled with understanding the concept of tree traversals in Binary Search Trees. I need to review those again.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I spent more time on exercises than lectures, which helped me grasp concepts better. However, I wish I had watched more videos on specific problems to better understand their applications.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Reflecting on my results, I think I did okay with Binary Search Trees but got stuck on a few questions in Sorting Algorithms. I need to make sure I read the question carefully next time.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I utilized quizzes and exercises effectively to reinforce my understanding of computer science concepts. However, I should have reviewed more resources before starting the study period.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "One thing that helped me was taking breaks during long study sessions. It allowed me to recharge and approach problems with a fresh perspective.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I think identifying my weaknesses was key in this week's studying. Recognizing that I need to practice more on Binary Search Trees has already made a difference in my understanding of the topic.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Engaging with lectures, quizzes, and exercises helped me consolidate knowledge and apply it to new situations. If I were to improve, I would spend even more time reviewing past assignments.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "The platform provided various learning materials that catered to different learning styles. This helped me find what worked best for my study habits and retain information better.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I could see the progress in understanding Binary Search Trees after practicing exercises regularly. It allowed me to internalize the concepts rather than just memorizing them.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I think I made progress on Binary Search Trees because the CompassX platform provided clear explanations and quizzes to reinforce my understanding. I struggled with sorting algorithms, so I'll focus on watching more lectures before attempting exercises.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "My time management was poor, but I prioritized topics and completed all assignments. For future study periods, I'll allocate more time for review and practice.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Reflecting on my progress, I realize I need to work on visualizing tree structures better. Watching additional videos and practicing problems will help me improve this skill.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I found quizzes challenging, so I took extra time to review material before attempting exercises. In the future, I'll try to balance learning with consistent practice.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "My approach was too superficial, focusing only on completing assignments quickly. However, I didn't fully grasp complex concepts. I need to slow down and truly understand each topic before moving forward.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I made progress by practicing exercises regularly and using the platform's resource library for reference. Next time, I'll also read through textbooks to gain a deeper understanding.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "After reviewing my results, I realize I need improvement in identifying and fixing errors quickly. Practicing with more complex problems will help me develop this skill.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Engaging with the CompassX community helped me stay motivated and learn from peers' mistakes. For future study periods, I'll make sure to participate in discussions and ask questions.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I struggled with sorting algorithms initially but persisted through exercises and watched additional lectures. Now, I see how concepts interconnect and will focus on building connections between topics in the next study period.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "My progress was hindered by not fully comprehending the theoretical background of Binary Search Trees. Watching more introductory lectures and taking notes helped me fill this knowledge gap.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I made significant progress on Binary Search Trees by creating interactive quizzes using CompassX's exercise feature. This helped me reinforce my understanding of tree traversal and balancing techniques.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Sorting Algorithms were challenging, but I improved through watching lectures and working on problems individually. I realized that practice is key to mastering these complex concepts.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I struggled with data structures at first, but re-watching the lecture video and breaking down examples into smaller parts helped me grasp the concepts better. This self-directed approach was crucial to my improvement.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "By tracking my progress using CompassX's quizzes and exercise logs, I identified areas where I needed more practice. Adjusting my study schedule to include more focused practice sessions yielded significant results.",
+        "true_tag": "evaluating",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "My understanding of tree data structures improved significantly when I participated in interactive exercises on CompassX. The immediate feedback from correct or incorrect answers reinforced my learning.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Reflecting on my mistakes during the week helped me identify a weakness in my approach to sorting algorithms. This reflection allowed me to adjust my strategy and improve over time.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Utilizing CompassX's lecture notes and resources, I tailored my learning plan to address specific weaknesses. This personalized approach paid off as I better understood complex concepts like recursive sorting algorithms.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "During the week, I found that my performance improved once I practiced solving problems on my own before checking answers on CompassX. This approach fostered a deeper understanding of Binary Search Trees and Sorting Algorithms.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "By taking more time to review and practice problems, I successfully overcame initial difficulties with sorting algorithms. Breaking down complex concepts into smaller parts made them more manageable for me.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I recognize now that my learning was influenced by the pace of the lectures \u2013 faster paced ones were more difficult to follow than slower paced ones. Adapting to different lecturers' styles has helped me in future learning experiences.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I made significant progress due to the interactive quizzes on Binary Search Trees. I struggled with exercises, but practicing them helped me understand the concepts better.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Lectures were helpful, but I think I could've benefited from more practice problems. I need to focus on improving my coding skills.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I found exercises to be too easy, so I opted for quizzes instead. This helped me identify areas where I needed improvement in Binary Search Trees.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Reflecting on my time spent studying, I realize I wasted a lot of time on topics outside the scope of the course. Next time, I'll focus on what's covered.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "The exercises were challenging, but they helped me develop problem-solving skills. I should've spent more time reviewing concepts before starting each exercise.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I made progress in understanding Sorting Algorithms by working through example problems and watching video lectures. However, I need to improve my ability to explain concepts clearly.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I struggled with Binary Search Trees because I didn't understand the underlying data structures. Now that I've grasped those fundamentals, I'm finding exercises easier.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Lectures were informative, but I didn't take as much notes as I should have. Next time, I'll make sure to review materials more thoroughly before exams.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I think my progress was hindered by not using the provided resources effectively. For example, I relied too heavily on quizzes instead of practicing exercises or watching lectures.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Reviewing notes and concepts after each lecture helped solidify my understanding of Binary Search Trees and Sorting Algorithms. This approach should be used in future study sessions as well.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I made significant progress on Binary Search Trees because I used CompassX's interactive quizzes to practice my understanding of tree traversal algorithms. I struggled with Sorting Algorithms, so I watched additional lectures to review the concepts.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I found that spending more time on exercises helped me solidify my grasp of sorting algorithms. The quizzes were too easy for me, which made it difficult to identify areas where I needed improvement.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "The lectures on Binary Search Trees were engaging, and I appreciated the real-world examples. However, I still struggled with applying the concepts to more complex problems.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I realized that my biggest strength was in understanding the theoretical aspects of Binary Search Trees. To improve, I should focus more on practical implementations.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "The quizzes helped me identify my weaknesses in Sorting Algorithms, particularly in handling edge cases. I'll review those topics again to improve my performance.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I think I made progress because I consistently practiced exercises and quizzes. However, I wish there were more resources available for advanced topics like heap data structures.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I found the lectures on Binary Search Trees informative, but I still had trouble understanding how to apply the concepts to specific use cases. More practical examples would be helpful.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Spending more time reviewing notes and practicing exercises helped me retain information better. This will be my strategy for future courses.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I didn't see significant progress because I only completed a week of studying, which wasn't enough time to fully grasp the topics. I need to increase my study pace or duration in the future.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I realized that I relied too heavily on lectures and not enough on exercises and quizzes. Next time, I'll prioritize practice problems to improve my skills.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "The interactive nature of CompassX's platform helped me engage with the material better than traditional teaching methods. This format will be ideal for future courses.",
+        "true_tag": "evaluating",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I spent more time reviewing notes and practicing exercises. This approach helped me understand Binary Search Trees better, but I struggled with Sorting Algorithms.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Lectures were helpful, but quizzes revealed my weakness in understanding tree structures. I need to focus on visual aids for better retention.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Engaging with the community through discussions boosted my confidence in Binary Search Tree implementation. However, I still find algorithms challenging.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Regular practice sessions allowed me to grasp sorting concepts quickly, but difficulties arose when applying them to real-world problems.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Quizzes forced me to identify areas where I needed more practice. I focused on exercises that target these weaknesses.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Reflecting on my time spent, I realized that less time was devoted to reviewing and practicing algorithms. Adjusting this balance could improve future outcomes.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "The variety of exercises and quizzes helped me develop a well-rounded understanding of Binary Search Trees. However, the pace of Sorting Algorithms was still challenging for me.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Engaging with tutorials and videos improved my grasp of tree structures but left me uncertain about when to apply them in practice scenarios.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Focusing on one concept at a time allowed me to deepen my understanding of Binary Search Trees. However, the broad scope of Sorting Algorithms still makes it difficult for me to achieve fluency.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I underestimated the amount of time required to master Binary Search Trees. With more practice and review, I believe this topic will become more manageable.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I made significant progress on Binary Search Trees because I practiced implementing algorithms through exercises. However, I struggled with understanding the time complexities, which held me back from mastering the topic.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Sorting Algorithms were my weak point. I found it challenging to visualize and compare different sorting techniques. To improve, I need more practice problems that require explanation and application.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I was surprised by how quickly I grasped Binary Search Trees. I attribute this to the interactive quizzes on CompassX, which helped me identify areas where I needed extra support.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "My time management skills were a challenge. If I had allocated more time for reviewing and practicing, I would have made better progress in Sorting Algorithms.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I realized that my approach to learning was too passive \u2013 watching lectures without actively taking notes or summarizing key points. To improve, I need to find ways to engage more with the material.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "Binary Search Trees were a bit easier than I expected. This might be due to the clear explanations in the lectures and practice problems. However, Sorting Algorithms still require more effort from me.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "The quizzes on CompassX helped me identify my knowledge gaps, particularly in understanding the trade-offs between different sorting algorithms. This insight has allowed me to focus my studying more effectively.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "I felt that I made progress in Binary Search Trees because I took advantage of the practice problems and exercises available on the platform. However, I still need to work on applying these concepts to real-world scenarios.",
+        "true_tag": "evaluating",
+        "predicted_tag": "evaluating",
+        "error": false
+    },
+    {
+        "text": "My main struggle with Sorting Algorithms was translating theoretical concepts into practical implementation. To overcome this, I will make sure to work through more coding challenges that force me to apply what I've learned.",
+        "true_tag": "evaluating",
+        "predicted_tag": "planning",
+        "error": false
+    }
+]

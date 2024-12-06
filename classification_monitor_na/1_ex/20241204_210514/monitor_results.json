@@ -1,0 +1,602 @@
+[
+    {
+        "text": "I forgot, it points to the same thing and not a copy of it like in Python",
+        "true_tag": "monitor",
+        "predicted_tag": "<monitor>",
+        "error": false
+    },
+    {
+        "text": "I didn't realize there was no static keyword before the String type",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I missed the colon instead of the curly brackets",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I forgot to check my pointers.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "It gets overwritten. I should have checked that because it's a static variable.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I forgot to check pointer. Jim points to Dwight, so any changes to either will change the object for both pointers.",
+        "true_tag": "monitor",
+        "predicted_tag": "<monitor>",
+        "error": false
+    },
+    {
+        "text": "I misread this material.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "The main module fulfills the role of a function.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I forgot to check my pointer.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "a and b point to the same value, until A changes",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "We are specifically printing lime, not just anything",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I didn't know Java, so I couldn't print ints",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I think b does not change the pointer from 43; I guess",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I'm not quite sure, actually.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I misunderstood Python syntax",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I thought referencing color or brand would confuse the code because it's a class variable, but it turns out that the method can change class variables since they were already declared.",
+        "true_tag": "monitor",
+        "predicted_tag": "<monitor/na>",
+        "error": false
+    },
+    {
+        "text": "I didn't think to look whether there was a print command in the code.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I didn't think that jan.jersey_number would also update when michael.jersey_number is increased",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I encountered an error with bracket formatting.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I didn't think that forest.animal would also update.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I didn't realize that the brand was static",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I forgot, it points to the same thing and not a copy of it like in Python",
+        "true_tag": "monitor",
+        "predicted_tag": "<monitor>",
+        "error": false
+    },
+    {
+        "text": "I thought since it had to be similar to Python code, we had to make a method to add the numbers",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I'm unsure if I can call the `randomMethod()` function from `MyClass` since it's not a static method.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I misclicked.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I didn't pay enough attention to type declarations.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I did not notice that the func() method is non-static.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I thought you needed to do this.add, but it makes sense given that it's inside the class. The only thing is I don't know what the point of 'this' is anymore outside of defining instance attributes and need clarification on its usage.",
+        "true_tag": "monitor",
+        "predicted_tag": "<monitor>",
+        "error": false
+    },
+    {
+        "text": "It doesn't work because webreg doesn't contain the function `information()`",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "Java non-static methods can't be referenced from a static context.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I didn't pay close enough attention to the for loop.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "That's nuts. Using an int array will just remove the decimals.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "The default value of a declared int is indeed 0!",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "Bro, this is literally a type difference that's so mean.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "This is the place to write, why I think I got this question wrong :)",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I didn't do well on this test, I struggled with some questions.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I didn't realize the variables were named differently",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I got confused between color and calories.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I didn't realize I wasn't calling printPersonInfo().",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I didn't use semicolons",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I didn't declare x, y, or z as integers.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I just straight up didn't read this thoroughly.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "You don't have to @Override. You should also consider @Equals and @Hashcode.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I'm struggling to grasp how Generics work",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I am not sure if the default int is always 0.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "The class can't implement the methods",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "Is the object also in the Super Shape?",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "No return type is needed. I did not see 'return' keyword.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "The line needed is: Apple.newRevenue = Apple.basicRevenue + Apple.changeRevenue;",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I didn't do well overall. I struggled with some concepts, like pointer check and memory management. To improve, I will review notes and take practice problems.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I struggled with some topics, particularly advanced data structures. I need to review these topics more thoroughly and practice implementing algorithms.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I simply did not know the definition of overloading in Java, which is when a single parameter name is used with different data types.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I didn't realize that A was true, but it makes sense given that interfaces are specifically designed for inheritance",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "The variable T needs to be declared before usage, not 'in front of' voice.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "DSC 30 extends webreg, but webreg does not extend DSC 30",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I'm not sure why I need @Override?",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I thought they pointed to the same box, so it changes for both variables.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I didn't understand",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "The variable is static.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I am confused",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I need to implement each method thoroughly.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "interface is not a class",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I'm confused",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I misread",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I misread",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I really think this is just wrong???",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "basically, it's the same as what I did before.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "I struggled with this test",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "Interfaces aren't classes, they are a subset of classes.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "Interfaces are not classes, they define behavior",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I thought this was only for instance variables.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I missed that fruitInfo.getCalories() should return 0, not null, given this input.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "Variables x and y do not have a type declared, which is incorrect.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "When initializing the car objects, I ensure that each object is pointing to a unique address. When printing the object information from the two different addresses, this detail should be noted.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I didn't catch this - it's a reference type, and it will change.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I realized I need to be careful with reference types, especially when they change.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I should make a change to reference.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I don't understand this answer. The strings printed are not even in the class.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "line3: parameter is an integer.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "Line 3: Method header \\<T\\>",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "line3: Method header<T>",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I forgot to check pointer on line 3: method header<T>",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "line3: method parameter <T>",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "An integer will have 0 as its default value",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "Uses implements, and an interface is just an interface.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "The system is missing an 'S'.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "Wrong initialization. I should have initialized DSC30 as 'dsc30_fall22' instead of 'new Webreg();'",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "The course name should be Webreg<CourseName> instead of DSC30<CourseName>.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "This is protected in parent class which can't be used in the subclass.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "Use a method from the parent class.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "The variable water_percent is protected",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "Because the class did not implement properly",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "str has \" not '",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I did well on questions that required understanding of data structures, but struggled with algorithms and implementations. I will review the code examples more carefully to understand the logic better.",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "instance variable without value returns NaN",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I'm not sure why.",
+        "true_tag": "monitor",
+        "predicted_tag": "na",
+        "error": false
+    },
+    {
+        "text": "It still doesn't work huh, but that makes sense given the values of everything inside ArrayList is T. However, if the list typing is String then that probably wouldn't work.",
+        "true_tag": "monitor",
+        "predicted_tag": "<monitor/na>",
+        "error": false
+    },
+    {
+        "text": "I think, but technically, interfaces aren't classes right",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    },
+    {
+        "text": "I made a mistake by misreading",
+        "true_tag": "monitor",
+        "predicted_tag": "monitor",
+        "error": false
+    }
+]

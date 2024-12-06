@@ -1,0 +1,20 @@
+140	416	I forgot it points to the same thing and not a copy of it like in python	01/17/2023 13:13:41
+140	252	didn't realize there was no static in front of String	01/17/2023 13:16:08
+140	224	Missed the colon instead of the curly brackets	01/17/2023 13:16:24
+140	248	pointer check	01/17/2023 13:16:38
+140	243	It gets overwrited? What because it's static?	01/17/2023 13:17:46
+140	419	pointer check. Jim points to dwight so any changes to either change the object for both pointers	01/17/2023 13:18:42
+140	235	I misread this	01/17/2023 13:19:42
+140	223	Main fulfills the role of function?	01/17/2023 13:20:31
+140	422	pointer check	01/17/2023 13:20:38
+144	401	a and b point to the same value, until a chages	01/18/2023 00:21:14
+144	227	We are printing lime specifically not just anything	01/18/2023 00:22:25
+144	226	I didn't know java and print ints	01/18/2023 00:23:39
+144	410	b doesn't change pointer from 43, I guess	01/18/2023 00:24:48
+144	257	I'm not sure actually	01/18/2023 00:25:58
+149	233	misunderstand Python syntax	01/18/2023 10:44:49
+156	248	I thought that referencing color or brand would confuse the code because it's a class variable, but it turns out that the method can change class variables because they were already declared.	01/18/2023 11:10:24
+38	254	I didn't think to look whether there was a print command in the code	01/18/2023 11:38:47
+38	416	I didn't think that jan.jersey_number would also update when michael.jersey_number was increased	01/18/2023 11:39:36
+38	224	Error regarding bracket formatting	01/18/2023 11:40:16
+38	420	I didn't think that forrest.animal would also update	01/18/2023 11:45:49
